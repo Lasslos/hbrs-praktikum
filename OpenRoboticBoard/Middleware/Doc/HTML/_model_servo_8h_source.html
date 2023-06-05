@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=11"/>
+<meta name="generator" content="Doxygen 1.9.5"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>ORB, Middleware-API: b:/OpenRoboticBoard/Middleware/Src/ModelServo.h Quellcode</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr id="projectrow">
+  <td id="projectalign">
+   <div id="projectname">ORB, Middleware-API
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Erzeugt von Doxygen 1.9.5 -->
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(document).ready(function(){initNavTree('_model_servo_8h_source.html',''); initResizable(); });
+/* @license-end */
+</script>
+<div id="doc-content">
+<div class="header">
+  <div class="headertitle"><div class="title">ModelServo.h</div></div>
+</div><!--header-->
+<div class="contents">
+<div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="comment">//*******************************************************************</span></div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="comment"></span><span class="comment">//*******************************************************************</span></div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="preprocessor">#ifndef _MODEL_SERVO_H</span></div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="preprocessor">#define _MODEL_SERVO_H</span></div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span> </div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span><span class="comment">//*******************************************************************</span></div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span><span class="preprocessor">#include &quot;Common/Src/ORB.h&quot;</span></div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span> </div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span><span class="comment">//*******************************************************************</span></div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno"><a class="line" href="class_model_servo.html">   26</a></span><span class="comment"></span><span class="keyword">class </span><a class="code hl_class" href="class_model_servo.html">ModelServo</a></div>
+<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>{</div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>  <span class="keyword">public</span>:</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>    <span class="comment">//---------------------------------------------------------------</span></div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno"><a class="line" href="class_model_servo.html#a241d5017ad72e410a4ac21fd0be7d166">   32</a></span><span class="comment"></span>    <span class="keyword">typedef</span> <span class="keyword">enum</span></div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>    {</div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>      S1 = 0,</div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>      S2 = 1</div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>    } <a class="code hl_enumeration" href="class_model_servo.html#a241d5017ad72e410a4ac21fd0be7d166">ServoPort_type</a>;</div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span> </div>
+<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>  <span class="keyword">private</span>:</div>
+<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>    <span class="comment">//---------------------------------------------------------------</span></div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    BYTE   port;</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>    <span class="keywordtype">float</span>  gain;</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>    ORB  &amp;orb;</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span> </div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>  <span class="keyword">public</span>:</div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>    <span class="comment">//---------------------------------------------------------------</span></div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno"><a class="line" href="class_model_servo.html#a61f9c9f575684ee1269dc020164e8b40">   53</a></span><span class="comment"></span>    <a class="code hl_function" href="class_model_servo.html#a61f9c9f575684ee1269dc020164e8b40">ModelServo</a>( <a class="code hl_enumeration" href="class_model_servo.html#a241d5017ad72e410a4ac21fd0be7d166">ServoPort_type</a> port,</div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>                <span class="keywordtype">short</span>          maxAngle = 0</div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>               )</div>
+<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>    : orb( *orbPtr )</div>
+<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>    {</div>
+<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>      this-&gt; port = port;</div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>      gain = (maxAngle&gt;0)?100.0/maxAngle:1.0;</div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>    }</div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span> </div>
+<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>    <span class="comment">//---------------------------------------------------------------</span></div>
+<div class="line"><a id="l00070" name="l00070"></a><span class="lineno"><a class="line" href="class_model_servo.html#a087c1a4bb306a4c5132abd2ddd8a52a7">   70</a></span><span class="comment"></span>    <span class="keyword">virtual</span> <span class="keywordtype">void</span> <a class="code hl_function" href="class_model_servo.html#a087c1a4bb306a4c5132abd2ddd8a52a7">set</a>( <span class="keywordtype">short</span> angle, <span class="keywordtype">short</span> speed = 1000 )</div>
+<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>    {</div>
+<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>      <span class="comment">// TODO: speed bereich prüfen und umrechnen</span></div>
+<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>      orb.setModelServo( port, speed/10, gain*angle );</div>
+<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>    }</div>
+<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span> </div>
+<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>    <span class="comment">//---------------------------------------------------------------</span></div>
+<div class="line"><a id="l00079" name="l00079"></a><span class="lineno"><a class="line" href="class_model_servo.html#ae667b718148a0254eb1714b8ceb2137a">   79</a></span><span class="comment"></span>    <span class="keyword">virtual</span> <span class="keywordtype">void</span> <a class="code hl_function" href="class_model_servo.html#ae667b718148a0254eb1714b8ceb2137a">halt</a>( <span class="keywordtype">void</span> )</div>
+<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>    {</div>
+<div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>      <span class="comment">// TODO: Implementierung fehlt</span></div>
+<div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span>      <span class="comment">//orb.setModelServo( port, 0, 0 );</span></div>
+<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>    }</div>
+<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>};</div>
+<div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span><span class="preprocessor">#endif</span></div>
+<div class="ttc" id="aclass_model_servo_html"><div class="ttname"><a href="class_model_servo.html">ModelServo</a></div><div class="ttdoc">Modellbau-Servo steuern.</div><div class="ttdef"><b>Definition:</b> ModelServo.h:27</div></div>
+<div class="ttc" id="aclass_model_servo_html_a087c1a4bb306a4c5132abd2ddd8a52a7"><div class="ttname"><a href="class_model_servo.html#a087c1a4bb306a4c5132abd2ddd8a52a7">ModelServo::set</a></div><div class="ttdeci">virtual void set(short angle, short speed=1000)</div><div class="ttdef"><b>Definition:</b> ModelServo.h:70</div></div>
+<div class="ttc" id="aclass_model_servo_html_a241d5017ad72e410a4ac21fd0be7d166"><div class="ttname"><a href="class_model_servo.html#a241d5017ad72e410a4ac21fd0be7d166">ModelServo::ServoPort_type</a></div><div class="ttdeci">ServoPort_type</div><div class="ttdef"><b>Definition:</b> ModelServo.h:33</div></div>
+<div class="ttc" id="aclass_model_servo_html_a61f9c9f575684ee1269dc020164e8b40"><div class="ttname"><a href="class_model_servo.html#a61f9c9f575684ee1269dc020164e8b40">ModelServo::ModelServo</a></div><div class="ttdeci">ModelServo(ServoPort_type port, short maxAngle=0)</div><div class="ttdef"><b>Definition:</b> ModelServo.h:53</div></div>
+<div class="ttc" id="aclass_model_servo_html_ae667b718148a0254eb1714b8ceb2137a"><div class="ttname"><a href="class_model_servo.html#ae667b718148a0254eb1714b8ceb2137a">ModelServo::halt</a></div><div class="ttdeci">virtual void halt(void)</div><div class="ttdef"><b>Definition:</b> ModelServo.h:79</div></div>
+</div><!-- fragment --></div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="dir_413f4e031a85da0d68269c6fd2f76e1c.html">Src</a></li><li class="navelem"><b>ModelServo.h</b></li>
+    <li class="footer">Erzeugt von <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+  </ul>
+</div>
+</body>
+</html>

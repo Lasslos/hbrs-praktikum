@@ -34,7 +34,7 @@ int foo( BYTE para, cORBlocal &orb ) //, IO::Data *ioDataIn, int x)
 //
 #if defined _KEIL
 /// Keil 5:
- unsigned x2 __attribute__((at( 0x8080000))) = (unsigned )foo; /* RO */
+ unsigned x2 __attribute__((at( 0x8020000))) = (unsigned )foo; /* RO */
 //  unsigned x2 __attribute__((at( 0x8020000))) = (unsigned )foo; /* RO */
 
 // Keil armclang 6:

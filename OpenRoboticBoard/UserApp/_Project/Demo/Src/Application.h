@@ -10,7 +10,7 @@ class cApplication : public cApplicationBase
 {
   private:
 	Sensor test;
-
+	Monitor text;
   public:
     //---------------------------------------------------------------
     cApplication(  )
@@ -26,7 +26,7 @@ class cApplication : public cApplicationBase
     {
       if( para == 0 )
       {
-        text.print(1, "Prog 1 (%.6s,%.5s)",__DATE__,__TIME__);
+        text.print(1, "Prog 1 - a (%.6s,%.5s)",__DATE__,__TIME__);
         
         while(1)
         {

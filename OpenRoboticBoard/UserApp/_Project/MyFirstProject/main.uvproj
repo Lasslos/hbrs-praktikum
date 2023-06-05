@@ -311,7 +311,7 @@
               </OCR_RVCT4>
               <OCR_RVCT5>
                 <Type>1</Type>
-                <StartAddress>0x8080000</StartAddress>
+                <StartAddress>0x8020000</StartAddress>
                 <Size>0x80000</Size>
               </OCR_RVCT5>
               <OCR_RVCT6>
@@ -362,7 +362,7 @@
               <MiscControls>--diag_suppress=1035</MiscControls>
               <Define>USE_UART,STM32F405xx, __ARM_STM32F405__, _HSE_CLK=8000, _HSE_BYPASS_OFF, HSE_VALUE=8000000,HSI_VALUE=8000000,_KEIL</Define>
               <Undefine></Undefine>
-              <IncludePath>.\Src;{ORB}\Firmware;{ORB}\Middleware\Src</IncludePath>
+              <IncludePath>.\Src;..\..\..\Firmware;..\..\..\Middleware\Src</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>

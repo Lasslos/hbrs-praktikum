@@ -75,7 +75,7 @@ class Motor
 
       switch( type )
       {
-        case LEGO:      orb.configMotor( port,   72, 25, 30, 30 ); break;
+        case LEGO:      orb.configMotor( port,   72, 25, 20, 30 ); break;
         case MAKEBLOCK: orb.configMotor( port,  144, 50, 50, 30 ); break;
         case FAULHABER: orb.configMotor( port, 8800, 25, 50, 50 ); break;
       }

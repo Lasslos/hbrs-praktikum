@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${env:ORB}",
+                "C:\\Users\\Laslo\\Development\\cpp\\hbrs-praktikum\\OpenRoboticBoard\\Firmware",
+                "C:\\Users\\Laslo\\Development\\cpp\\hbrs-praktikum\\OpenRoboticBoard\\Middleware\\Src"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        }
+    ],
+    "version": 4
+}
