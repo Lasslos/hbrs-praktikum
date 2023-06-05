@@ -1,0 +1,11 @@
+ORB-Monitor: 
+- Wenn settings-send azfgerufen wird, wird command gesetzt, dies muss wierder zurückgesetzt werden.
+- Settings (Name) neu abfragen, wenn verbindung unterbrochen wurde
+
+Start Application at 08020000 for ALL hardware versions?
+
+ORB-Monitor: vid/pid as command line parameter or configurable?
+
+ORB-Monitor: different baud rates ? comand line parameter or configurable?
+
+ORb-Monitor: Tasten-Datei per command-line angeben
