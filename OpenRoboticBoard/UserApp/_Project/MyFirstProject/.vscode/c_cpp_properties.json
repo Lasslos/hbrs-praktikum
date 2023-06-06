@@ -12,7 +12,8 @@
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
-            ]
+            ],
+            "intelliSenseMode": "gcc-arm"
         }
     ],
     "version": 4

@@ -36,8 +36,6 @@ public:
 
 #include "Application.h"
 
-
-
 //*******************************************************************
 int Main( BYTE para, cORBlocal &orb ) //,  IO::Data *ptr)
 {

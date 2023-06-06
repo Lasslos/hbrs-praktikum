@@ -1,11 +1,3 @@
-/********************************************************************
-
-Beispielanwendung
-
-
-********************************************************************/
-
-//*******************************************************************
 class cApplication : public cApplicationBase {
   private:
 	Sensor test;
@@ -27,16 +19,16 @@ class cApplication : public cApplicationBase {
   //---------------------------------------------------------------
   virtual void run( BYTE para ) {
     if (para == 0 ) {
-      monitor.print(1, "Hallo simon%d (%.6s,%.5s)", para, __DATE__,__TIME__);
+      monitor.print(1, "%d (%.6s,%.5s)", para, __DATE__,__TIME__);
       while(1) {
         switch (monitor.getKeyState()) {
           case Monitor::Taste_B5:
-            motor.setSpeed(1000);
-            motor2.setSpeed(1000);
+            motor.setSpeed(500);
+            motor2.setSpeed(400);
             break;
           case Monitor::Taste_B8:
-            motor.setSpeed(-1000);
-            motor2.setSpeed(-1000);
+            motor.setSpeed(-500);
+            motor2.setSpeed(-400);
             break;
           default:
             motor.setSpeed(0);
