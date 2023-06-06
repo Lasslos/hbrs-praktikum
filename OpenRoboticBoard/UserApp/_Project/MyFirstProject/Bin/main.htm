@@ -1,0 +1,140 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html><head>
+<title>Static Call Graph - [.\Bin\main.axf]</title></head>
+<body><HR>
+<H1>Static Call Graph for image .\Bin\main.axf</H1><HR>
+<BR><P>#&#060CALLGRAPH&#062# ARM Linker, 5.03 [Build 76]: Last Updated: Tue Jun 06 09:38:26 2023
+<BR><P>
+<H3>Maximum Stack Usage =        248 bytes + Unknown(Functions without stacksize, Untraceable Function Pointers)</H3><H3>
+Call chain for Maximum Stack Depth:</H3>
+foo(unsigned char, cORBlocal&) &rArr; Main(unsigned char, cORBlocal&) &rArr; cApplication::run(unsigned char) &rArr; Sensor::get()
+<P>
+<H3>
+Functions with no stack information
+</H3><UL>
+ <LI><a href="#[3]">Reset_Handler</a>
+ <LI><a href="#[c]">__user_initial_stackheap</a>
+</UL>
+</UL>
+<P>
+<H3>
+Function Pointers
+</H3><UL>
+ <LI><a href="#[0]">foo(unsigned char, cORBlocal&)</a> from entry.o(i._Z3foohR9cORBlocal) referenced from entry.o(.ARM.__AT_0x08020000)
+ <LI><a href="#[1]">cApplication::run(unsigned char)</a> from main.o(i._ZN12cApplication3runEh) referenced from main.o(.constdata__ZTV12cApplication)
+ <LI><a href="#[2]">Sensor::get()</a> from main.o(i._ZN6Sensor3getEv) referenced from main.o(.constdata__ZTV6Sensor)
+</UL>
+<P>
+<H3>
+Global Symbols
+</H3>
+<P><STRONG><a name="[3]"></a>Reset_Handler</STRONG> (Thumb, 0 bytes, Stack size unknown bytes, startup.o(.text), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Reset_Handler
+</UL>
+<BR>[Called By]<UL><LI><a href="#[3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Reset_Handler
+</UL>
+
+<P><STRONG><a name="[c]"></a>__user_initial_stackheap</STRONG> (Thumb, 0 bytes, Stack size unknown bytes, startup.o(.text), UNUSED)
+
+<P><STRONG><a name="[d]"></a>__use_two_region_memory</STRONG> (Thumb, 2 bytes, Stack size 0 bytes, heapauxi.o(.text), UNUSED)
+
+<P><STRONG><a name="[e]"></a>__rt_heap_escrow$2region</STRONG> (Thumb, 2 bytes, Stack size 0 bytes, heapauxi.o(.text), UNUSED)
+
+<P><STRONG><a name="[f]"></a>__rt_heap_expand$2region</STRONG> (Thumb, 2 bytes, Stack size 0 bytes, heapauxi.o(.text), UNUSED)
+
+<P><STRONG><a name="[0]"></a>foo(unsigned char, cORBlocal&)</STRONG> (Thumb, 24 bytes, Stack size 16 bytes, entry.o(i._Z3foohR9cORBlocal))
+<BR><BR>[Stack]<UL><LI>Max Depth = 248<LI>Call Chain = foo(unsigned char, cORBlocal&) &rArr; Main(unsigned char, cORBlocal&) &rArr; cApplication::run(unsigned char) &rArr; Sensor::get()
+</UL>
+<BR>[Calls]<UL><LI><a href="#[4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Main(unsigned char, cORBlocal&)
+</UL>
+<BR>[Address Reference Count : 1]<UL><LI> entry.o(.ARM.__AT_0x08020000)
+</UL>
+<P><STRONG><a name="[4]"></a>Main(unsigned char, cORBlocal&)</STRONG> (Thumb, 80 bytes, Stack size 64 bytes, main.o(i._Z4MainhR9cORBlocal))
+<BR><BR>[Stack]<UL><LI>Max Depth = 232<LI>Call Chain = Main(unsigned char, cORBlocal&) &rArr; cApplication::run(unsigned char) &rArr; Sensor::get()
+</UL>
+<BR>[Calls]<UL><LI><a href="#[6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Monitor::clear()
+<LI><a href="#[5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Sensor::Sensor(Sensor::SensorPort_type, unsigned char)
+<LI><a href="#[1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;cApplication::run(unsigned char)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;foo(unsigned char, cORBlocal&)
+</UL>
+
+<P><STRONG><a name="[1]"></a>cApplication::run(unsigned char)</STRONG> (Thumb, 82 bytes, Stack size 16 bytes, main.o(i._ZN12cApplication3runEh))
+<BR><BR>[Stack]<UL><LI>Max Depth = 168<LI>Call Chain = cApplication::run(unsigned char) &rArr; Sensor::get()
+</UL>
+<BR>[Calls]<UL><LI><a href="#[7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Monitor::print(unsigned char, const char*, ...)
+<LI><a href="#[2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Sensor::get()
+</UL>
+<BR>[Called By]<UL><LI><a href="#[4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Main(unsigned char, cORBlocal&)
+</UL>
+<BR>[Address Reference Count : 1]<UL><LI> main.o(.constdata__ZTV12cApplication)
+</UL>
+<P><STRONG><a name="[8]"></a>Memory::Item::Item(unsigned long)</STRONG> (Thumb, 22 bytes, Stack size 16 bytes, main.o(i._ZN6Memory4ItemC1Em))
+<BR><BR>[Stack]<UL><LI>Max Depth = 40<LI>Call Chain = Memory::Item::Item(unsigned long) &rArr; Memory::addItem(Memory::Item*, unsigned long)
+</UL>
+<BR>[Calls]<UL><LI><a href="#[9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Memory::addItem(Memory::Item*, unsigned long)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Sensor::Sensor(Sensor::SensorPort_type, unsigned char)
+</UL>
+
+<P><STRONG><a name="[10]"></a>Memory::Item::Item__sub_object(unsigned long)</STRONG> (Thumb, 0 bytes, Stack size 16 bytes, main.o(i._ZN6Memory4ItemC1Em), UNUSED)
+
+<P><STRONG><a name="[b]"></a>Memory::Item::operator int()</STRONG> (Thumb, 6 bytes, Stack size 0 bytes, main.o(i._ZN6Memory4ItemcviEv))
+<BR><BR>[Called By]<UL><LI><a href="#[a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Sensor::init(unsigned char)
+</UL>
+
+<P><STRONG><a name="[11]"></a>Memory::store()</STRONG> (Thumb, 126 bytes, Stack size 24 bytes, main.o(i._ZN6Memory5storeEv), UNUSED)
+
+<P><STRONG><a name="[9]"></a>Memory::addItem(Memory::Item*, unsigned long)</STRONG> (Thumb, 82 bytes, Stack size 24 bytes, main.o(i._ZN6Memory7addItemEPNS_4ItemEm))
+<BR><BR>[Stack]<UL><LI>Max Depth = 24<LI>Call Chain = Memory::addItem(Memory::Item*, unsigned long)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Memory::Item::Item(unsigned long)
+</UL>
+
+<P><STRONG><a name="[2]"></a>Sensor::get()</STRONG> (Thumb, 304 bytes, Stack size 152 bytes, main.o(i._ZN6Sensor3getEv))
+<BR><BR>[Stack]<UL><LI>Max Depth = 152<LI>Call Chain = Sensor::get()
+</UL>
+<BR>[Called By]<UL><LI><a href="#[1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;cApplication::run(unsigned char)
+</UL>
+<BR>[Address Reference Count : 1]<UL><LI> main.o(.constdata__ZTV6Sensor)
+</UL>
+<P><STRONG><a name="[a]"></a>Sensor::init(unsigned char)</STRONG> (Thumb, 454 bytes, Stack size 24 bytes, main.o(i._ZN6Sensor4initEh))
+<BR><BR>[Stack]<UL><LI>Max Depth = 24<LI>Call Chain = Sensor::init(unsigned char)
+</UL>
+<BR>[Calls]<UL><LI><a href="#[b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Memory::Item::operator int()
+</UL>
+<BR>[Called By]<UL><LI><a href="#[5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Sensor::Sensor(Sensor::SensorPort_type, unsigned char)
+</UL>
+
+<P><STRONG><a name="[5]"></a>Sensor::Sensor(Sensor::SensorPort_type, unsigned char)</STRONG> (Thumb, 88 bytes, Stack size 16 bytes, main.o(i._ZN6SensorC1ENS_15SensorPort_typeEh))
+<BR><BR>[Stack]<UL><LI>Max Depth = 56<LI>Call Chain = Sensor::Sensor(Sensor::SensorPort_type, unsigned char) &rArr; Memory::Item::Item(unsigned long) &rArr; Memory::addItem(Memory::Item*, unsigned long)
+</UL>
+<BR>[Calls]<UL><LI><a href="#[a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Sensor::init(unsigned char)
+<LI><a href="#[8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Memory::Item::Item(unsigned long)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Main(unsigned char, cORBlocal&)
+</UL>
+
+<P><STRONG><a name="[12]"></a>Sensor::Sensor__sub_object(Sensor::SensorPort_type, unsigned char)</STRONG> (Thumb, 0 bytes, Stack size 16 bytes, main.o(i._ZN6SensorC1ENS_15SensorPort_typeEh), UNUSED)
+
+<P><STRONG><a name="[6]"></a>Monitor::clear()</STRONG> (Thumb, 50 bytes, Stack size 8 bytes, main.o(i._ZN7Monitor5clearEv))
+<BR><BR>[Stack]<UL><LI>Max Depth = 48<LI>Call Chain = Monitor::clear() &rArr; Monitor::print(unsigned char, const char*, ...)
+</UL>
+<BR>[Calls]<UL><LI><a href="#[7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Monitor::print(unsigned char, const char*, ...)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Main(unsigned char, cORBlocal&)
+</UL>
+
+<P><STRONG><a name="[7]"></a>Monitor::print(unsigned char, const char*, ...)</STRONG> (Thumb, 48 bytes, Stack size 40 bytes, main.o(i._ZN7Monitor5printEhPKcz))
+<BR><BR>[Stack]<UL><LI>Max Depth = 40<LI>Call Chain = Monitor::print(unsigned char, const char*, ...)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Monitor::clear()
+<LI><a href="#[1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;cApplication::run(unsigned char)
+</UL>
+<P>
+<H3>
+Local Symbols
+</H3><P>
+<H3>
+Undefined Global Symbols
+</H3><HR></body></html>

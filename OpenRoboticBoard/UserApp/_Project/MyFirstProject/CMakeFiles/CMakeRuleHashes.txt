@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+eb0718c3430a166f3e145c354a66c694 CMakeFiles/MyFirstProject.bin
+e65faf47d799bda8fe920d6b76a6afa5 CMakeFiles/MyFirstProject.hex
+67ce9273ccf0da84a50742a9196a5f43 CMakeFiles/clean-all
+baaf12ab174436a6443976a783615a8a CMakeFiles/flash
+5c5d238f5116c1df4857cb4ef3addd47 CMakeFiles/size

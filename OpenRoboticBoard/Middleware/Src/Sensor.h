@@ -43,12 +43,12 @@ class Sensor : public Value<int>
       NXT_ULTRASCHALL = 9,           //!< NXT-Ultraschallsensor
       ANALOG_ON  = 10,               //!< Analogsensor, z.B. NXT-Lichtsensor (LED <b>ein</b>geschaltet)
       ANALOG_OFF  = 11,              //!< Analogsensor, z.B. NXT-Lichtsensor (LED <b>aus</b>geschaltet)
-	MB_ULTRASCHALL = 12,            //!< Makeblock Ultraschallsensor, SRF05
-	TCS3472_COLOR      = 13,
+	    MB_ULTRASCHALL = 12,            //!< Makeblock Ultraschallsensor, SRF05
+	    TCS3472_COLOR      = 13,
       VL53L0X_DISTANCE = 14,          //!< Laser Abstandssensor
       EV3_GYRO_ANGLE = 15,      //!< EV3
       EV3_GYRO_RATE = 16,      //!< EV3
-
+      EV3_ULTRASCHALL = 17,      //!< EV3
     } SensorType_type;
 
   protected:
@@ -166,7 +166,7 @@ class Sensor : public Value<int>
 //				  gain   = (200.0-30.0)/(830.0-420.0);
 //          offset = 420-30/gain;
           orb.configSensor( port, ORB::TOF, 0, 0 );
-				  gain   = 0.170;  // v=2x/t => x = (0.5*0.340mm/µs)*t
+				  gain   = 0.170;  // v=2x/t => x = (0.5*0.340mm/ï¿½s)*t
           offset = 30; // = 5mm/0.17
           break;
 
@@ -185,7 +185,10 @@ class Sensor : public Value<int>
 				offset = 0.0;
           break;
 
-
+        case EV3_ULTRASCHALL:
+          maxNumOfCh = 1;
+          orb.configSensor(port, ORB::UART, 0, 0);
+          break;
       }
     }
 

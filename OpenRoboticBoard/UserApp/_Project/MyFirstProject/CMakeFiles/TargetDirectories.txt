@@ -1,0 +1,8 @@
+C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/MyFirstProject/CMakeFiles/MyFirstProject.elf.dir
+C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/MyFirstProject/CMakeFiles/MyFirstProject.bin.dir
+C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/MyFirstProject/CMakeFiles/MyFirstProject.hex.dir
+C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/MyFirstProject/CMakeFiles/size.dir
+C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/MyFirstProject/CMakeFiles/flash.dir
+C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/MyFirstProject/CMakeFiles/clean-all.dir
+C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/MyFirstProject/CMakeFiles/edit_cache.dir
+C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/MyFirstProject/CMakeFiles/rebuild_cache.dir
