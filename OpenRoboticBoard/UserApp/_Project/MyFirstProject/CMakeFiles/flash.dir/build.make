@@ -66,7 +66,7 @@ include CMakeFiles/flash.dir/compiler_depend.make
 include CMakeFiles/flash.dir/progress.make
 
 CMakeFiles/flash:
-	st-flash write C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/MyFirstProject/bin/MyFirstProject.bin 0x8000000
+	st-flash write /MyFirstProject.bin 0x8000000
 
 flash: CMakeFiles/flash
 flash: CMakeFiles/flash.dir/build.make

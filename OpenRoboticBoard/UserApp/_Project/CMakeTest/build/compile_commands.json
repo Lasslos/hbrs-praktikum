@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build",
+  "command": "C:\\msys64\\mingw64\\bin\\arm-none-eabi-g++.exe  -IC:\\Users\\Laslo\\Development\\cpp\\hbrs-praktikum\\OpenRoboticBoard\\UserApp\\_Project\\CMakeTest\\.\\Src -IC:\\Users\\Laslo\\Development\\cpp\\hbrs-praktikum\\OpenRoboticBoard\\Firmware -IC:\\Users\\Laslo\\Development\\cpp\\hbrs-praktikum\\OpenRoboticBoard\\Middleware\\Src -Wextra -Wshadow -Wredundant-decls  -Weffc++ -fno-common -ffunction-sections -fdata-sections -MD -Wall -Wundef -mthumb -mcpu=cortex-m4  -g -o CMakeFiles\\Target.elf.dir\\Lib\\entry.cpp.obj -c C:\\Users\\Laslo\\Development\\cpp\\hbrs-praktikum\\OpenRoboticBoard\\UserApp\\_Project\\CMakeTest\\Lib\\entry.cpp",
+  "file": "C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/Lib/entry.cpp",
+  "output": "CMakeFiles/Target.elf.dir/Lib/entry.cpp.obj"
+},
+{
+  "directory": "C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build",
+  "command": "C:\\msys64\\mingw64\\bin\\arm-none-eabi-g++.exe  -IC:\\Users\\Laslo\\Development\\cpp\\hbrs-praktikum\\OpenRoboticBoard\\UserApp\\_Project\\CMakeTest\\.\\Src -IC:\\Users\\Laslo\\Development\\cpp\\hbrs-praktikum\\OpenRoboticBoard\\Firmware -IC:\\Users\\Laslo\\Development\\cpp\\hbrs-praktikum\\OpenRoboticBoard\\Middleware\\Src -Wextra -Wshadow -Wredundant-decls  -Weffc++ -fno-common -ffunction-sections -fdata-sections -MD -Wall -Wundef -mthumb -mcpu=cortex-m4  -g -o CMakeFiles\\Target.elf.dir\\Lib\\main.cpp.obj -c C:\\Users\\Laslo\\Development\\cpp\\hbrs-praktikum\\OpenRoboticBoard\\UserApp\\_Project\\CMakeTest\\Lib\\main.cpp",
+  "file": "C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/Lib/main.cpp",
+  "output": "CMakeFiles/Target.elf.dir/Lib/main.cpp.obj"
+}
+]

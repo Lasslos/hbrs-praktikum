@@ -18,7 +18,7 @@ class cApplication : public cApplicationBase {
     if (para == 0 ) {
       monitor.print(1, "%d (%.6s,%.5s)", para, __DATE__,__TIME__);
       while(1) {
-        monitor.print(1, "%i", sensor.get());
+        monitor.print(1, "%i %i", sensor.get(), 73721598);
       } // ende der while-Schleife
     }
     else {

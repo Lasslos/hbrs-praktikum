@@ -1,12 +1,11 @@
 file(REMOVE_RECURSE
-  "Bin/MyFirstProject.elf.exe"
-  "Bin/MyFirstProject.elf.exe.manifest"
-  "Bin/MyFirstProject.elf.pdb"
-  "Bin/libMyFirstProject.elf.dll.a"
   "CMakeFiles/MyFirstProject.elf.dir/Lib/entry.cpp.obj"
   "CMakeFiles/MyFirstProject.elf.dir/Lib/entry.cpp.obj.d"
   "CMakeFiles/MyFirstProject.elf.dir/Lib/main.cpp.obj"
   "CMakeFiles/MyFirstProject.elf.dir/Lib/main.cpp.obj.d"
+  "MyFirstProject.elf"
+  "MyFirstProject.elf.manifest"
+  "MyFirstProject.elf.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

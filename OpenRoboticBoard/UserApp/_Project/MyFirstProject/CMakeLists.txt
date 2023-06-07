@@ -4,7 +4,8 @@ cmake_minimum_required (VERSION 3.1)
 # Compiler Location
 # TODO: Change the compiler location to your own path
 set(CMAKE_CXX_COMPILER "C:/msys64/mingw64/bin/arm-none-eabi-g++.exe")
-set(CMAKE_C_COMPILER "C:/msys64/mingw64/bin/arm-none-eabi-gcc.exe")                                                                                                                           
+set(CMAKE_C_COMPILER "C:/msys64/mingw64/bin/arm-none-eabi-gcc.exe")          
+set(ARM_OBJCOPY C:/msys64/mingw64/bin/arm-none-eabi-objcopy.exe)
 
 set(CMAKE_TRY_COMPILE_TARGET_TYPE "STATIC_LIBRARY")
 
@@ -15,8 +16,8 @@ enable_language(ASM)
 enable_language(C)
 
 # Reset output path
-set (EXECUTABLE_OUTPUT_PATH ${CMAKE_BINARY_DIR}/bin)
-set (LIBRARY_OUTPUT_PATH ${CMAKE_BINARY_DIR}/lib)
+#set (EXECUTABLE_OUTPUT_PATH ${CMAKE_BINARY_DIR}/bin)
+#set (LIBRARY_OUTPUT_PATH ${CMAKE_BINARY_DIR}/lib)
 
 # STDLIB
 set (CMAKE_SHARED_LIBRARY_LINK_C_FLAGS)
@@ -30,9 +31,6 @@ include_directories (./../../../Middleware/Src)
 set (SRC_FILE0 ./Lib/entry.cpp)
 set (SRC_FILE1 ./Lib/main.cpp)
 set (SRC_FILE2 ./Src/Application.h)
-
-# Fix ld version error by setting CMAKE_STATIC_LINKER_FLAGS to 
-
 
 set(CROSS_TARGET_TRIPLET "arm-none-eabi-")
 

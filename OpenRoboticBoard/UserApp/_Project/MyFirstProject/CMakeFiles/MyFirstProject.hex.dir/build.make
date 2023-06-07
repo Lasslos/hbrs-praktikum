@@ -65,8 +65,8 @@ include CMakeFiles/MyFirstProject.hex.dir/compiler_depend.make
 # Include the progress variables for this target.
 include CMakeFiles/MyFirstProject.hex.dir/progress.make
 
-CMakeFiles/MyFirstProject.hex: Bin/MyFirstProject.elf.exe
-	arm-none-eabi-objcopy -Oihex C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/MyFirstProject/bin/MyFirstProject.elf C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/MyFirstProject/bin/MyFirstProject.hex
+CMakeFiles/MyFirstProject.hex: /MyFirstProject.elf
+	arm-none-eabi-objcopy -Oihex /MyFirstProject.elf /MyFirstProject.hex
 
 MyFirstProject.hex: CMakeFiles/MyFirstProject.hex
 MyFirstProject.hex: CMakeFiles/MyFirstProject.hex.dir/build.make

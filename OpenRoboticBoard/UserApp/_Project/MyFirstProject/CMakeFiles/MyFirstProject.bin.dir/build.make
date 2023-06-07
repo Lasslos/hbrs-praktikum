@@ -65,8 +65,8 @@ include CMakeFiles/MyFirstProject.bin.dir/compiler_depend.make
 # Include the progress variables for this target.
 include CMakeFiles/MyFirstProject.bin.dir/progress.make
 
-CMakeFiles/MyFirstProject.bin: Bin/MyFirstProject.elf.exe
-	arm-none-eabi-objcopy -Obinary C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/MyFirstProject/bin/MyFirstProject.elf C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/MyFirstProject/bin/MyFirstProject.bin
+CMakeFiles/MyFirstProject.bin: /MyFirstProject.elf
+	arm-none-eabi-objcopy -Obinary /MyFirstProject.elf /MyFirstProject.bin
 
 MyFirstProject.bin: CMakeFiles/MyFirstProject.bin
 MyFirstProject.bin: CMakeFiles/MyFirstProject.bin.dir/build.make

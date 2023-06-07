@@ -65,8 +65,8 @@ include CMakeFiles/size.dir/compiler_depend.make
 # Include the progress variables for this target.
 include CMakeFiles/size.dir/progress.make
 
-CMakeFiles/size: Bin/MyFirstProject.elf.exe
-	arm-none-eabi-size C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/MyFirstProject/bin/MyFirstProject.elf
+CMakeFiles/size: /MyFirstProject.elf
+	arm-none-eabi-size /MyFirstProject.elf
 
 size: CMakeFiles/size
 size: CMakeFiles/size.dir/build.make
