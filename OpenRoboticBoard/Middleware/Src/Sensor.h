@@ -41,7 +41,7 @@ class Sensor : public Value<int>
       EV3_FARBSENSOR_REFLEKTION = 1, //!< EV3 Farbsensor im Modus "Helligkeit"
       EV3_FARBSENSOR_LICHT = 2, //!< EV3 Farbsensor im Modus "Einfallslicht"
       EV3_FARBSENSOR_FARBE = 3,      //!< EV3 Farbsensor im Modus "Farbwert"
-			EV3_IR_DISTANCE=4,
+	EV3_IR_DISTANCE=4,
       NXT_ULTRASCHALL = 9,           //!< NXT-Ultraschallsensor
       ANALOG_ON  = 10,               //!< Analogsensor, z.B. NXT-Lichtsensor (LED <b>ein</b>geschaltet)
       ANALOG_OFF  = 11,              //!< Analogsensor, z.B. NXT-Lichtsensor (LED <b>aus</b>geschaltet)
@@ -50,7 +50,8 @@ class Sensor : public Value<int>
       VL53L0X_DISTANCE = 14,          //!< Laser Abstandssensor
       EV3_GYRO_ANGLE = 15,      //!< EV3
       EV3_GYRO_RATE = 16,      //!< EV3
-			EV3_ULTRASCHALL=17,
+	EV3_ULTRASCHALL=17,
+      EV3_FARBSENSOR_RGB = 18,      //!< EV3 Farbsensor im Modus "RGB"
     } SensorType_type;
 
   protected:
@@ -147,6 +148,10 @@ class Sensor : public Value<int>
             maxNumOfCh = 1;
           orb.configSensor( port, ORB::UART, 2, 0 );
           break;
+	  
+	case EV3_FARBSENSOR_RGB:
+            maxNumOfCh = 1;
+          orb.configSensor( port, ORB::UART, 4, 0 );
        case EV3_IR_DISTANCE: //Abstand Objekt 1-100
             maxNumOfCh = 1;
           orb.configSensor( port, ORB::UART, 0, 0 );
@@ -255,7 +260,20 @@ class Sensor : public Value<int>
 
         case EV3_FARBSENSOR_FARBE:
           return(orbPtr->getSensor(port).value[0] & 0xFFFF);
+	case EV3_FARBSENSOR_RGB:
+		DWORD temp0 = orbPtr->getSensor(port).value[0];
+		DWORD temp1 = orbPtr->getSensor(port).value[1];
+		// 1          0
+		//0000 00RR 00GG 00BB
 
+		int R = temp0 & 0xFFFF;
+		int G = (temp0 >> 16) & 0xFFFF;
+		int B = temp1 & 0xFFFF;
+
+		if(R > 0x3FF){R=0x3FF;}
+		if(G > 0x3FF){G=0x3FF;}
+		if(B > 0x3FF){B=0x3FF;}
+		return ((R << 20) | (G << 10) | B);
         case ANALOG_ON:
         case ANALOG_OFF:
             return(gain*((float)(orbPtr->getSensor(port).value[0]&0xFFF)-offset));
