@@ -38,8 +38,10 @@ class Sensor : public Value<int>
     typedef enum
     {
       NONE    = 0,                   //!< kein Sensor angeschlossen
-      EV3_FARBSENSOR_HELLIGKEIT = 1, //!< EV3 Farbsensor im Modus "Helligkeit"
+      EV3_FARBSENSOR_REFLEKTION = 1, //!< EV3 Farbsensor im Modus "Helligkeit"
+      EV3_FARBSENSOR_LICHT = 2, //!< EV3 Farbsensor im Modus "Einfallslicht"
       EV3_FARBSENSOR_FARBE = 3,      //!< EV3 Farbsensor im Modus "Farbwert"
+			EV3_IR_DISTANCE=4,
       NXT_ULTRASCHALL = 9,           //!< NXT-Ultraschallsensor
       ANALOG_ON  = 10,               //!< Analogsensor, z.B. NXT-Lichtsensor (LED <b>ein</b>geschaltet)
       ANALOG_OFF  = 11,              //!< Analogsensor, z.B. NXT-Lichtsensor (LED <b>aus</b>geschaltet)
@@ -48,7 +50,7 @@ class Sensor : public Value<int>
       VL53L0X_DISTANCE = 14,          //!< Laser Abstandssensor
       EV3_GYRO_ANGLE = 15,      //!< EV3
       EV3_GYRO_RATE = 16,      //!< EV3
-
+			EV3_ULTRASCHALL=17,
     } SensorType_type;
 
   protected:
@@ -131,14 +133,28 @@ class Sensor : public Value<int>
           orb.configSensor( port, ORB::ANALOG, 0, 0 );
           break;
 
-        case EV3_FARBSENSOR_HELLIGKEIT:
+        case EV3_FARBSENSOR_REFLEKTION:
             maxNumOfCh = 1;
           orb.configSensor( port, ORB::UART, 0, 0 );
+          break;
+				
+				case EV3_FARBSENSOR_LICHT:
+            maxNumOfCh = 1;
+          orb.configSensor( port, ORB::UART, 1, 0 );
           break;
 
         case EV3_FARBSENSOR_FARBE:
             maxNumOfCh = 1;
           orb.configSensor( port, ORB::UART, 2, 0 );
+          break;
+       case EV3_IR_DISTANCE: //Abstand Objekt 1-100
+            maxNumOfCh = 1;
+          orb.configSensor( port, ORB::UART, 0, 0 );
+          break;
+
+       case EV3_ULTRASCHALL: //Abstand in mm
+            maxNumOfCh = 1;
+          orb.configSensor( port, ORB::UART, 0, 0 );
           break;
 
         case NXT_ULTRASCHALL:
@@ -166,7 +182,7 @@ class Sensor : public Value<int>
 //				  gain   = (200.0-30.0)/(830.0-420.0);
 //          offset = 420-30/gain;
           orb.configSensor( port, ORB::TOF, 0, 0 );
-				  gain   = 0.170;  // v=2x/t => x = (0.5*0.340mm/µs)*t
+				  gain   = 0.170;  // v=2x/t => x = (0.5*0.340mm/Âµs)*t
           offset = 30; // = 5mm/0.17
           break;
 
@@ -249,5 +265,8 @@ class Sensor : public Value<int>
       }
     }
 
+		void setOpMode(short OpMode1, short OpMode2 = 0){
+			orb.configSensor(port,mode,OpMode1,OpMode2);
+		}
 };
 #endif
