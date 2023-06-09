@@ -241,6 +241,14 @@ Lib/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Target.elf.dir\build.make CMakeFiles/Target.elf.dir/Lib/main.cpp.s
 .PHONY : Lib/main.cpp.s
 
+Lib/startup.obj: Lib/startup.S.obj
+.PHONY : Lib/startup.obj
+
+# target to build an object file
+Lib/startup.S.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Target.elf.dir\build.make CMakeFiles/Target.elf.dir/Lib/startup.S.obj
+.PHONY : Lib/startup.S.obj
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -261,6 +269,7 @@ help:
 	@echo ... Lib/main.obj
 	@echo ... Lib/main.i
 	@echo ... Lib/main.s
+	@echo ... Lib/startup.obj
 .PHONY : help
 
 

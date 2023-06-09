@@ -65,7 +65,7 @@ include CMakeFiles/Target.hex.dir/compiler_depend.make
 # Include the progress variables for this target.
 include CMakeFiles/Target.hex.dir/progress.make
 
-CMakeFiles/Target.hex: bin/Target.elf.exe
+CMakeFiles/Target.hex: bin/Target.elf
 	arm-none-eabi-objcopy -Oihex C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/DemoX/build/bin/Target.elf C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/DemoX/build/bin/Target.hex
 
 Target.hex: CMakeFiles/Target.hex

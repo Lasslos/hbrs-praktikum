@@ -68,55 +68,66 @@ include CMakeFiles/Target.elf.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Target.elf.dir/flags.make
 
+CMakeFiles/Target.elf.dir/Lib/startup.S.obj: CMakeFiles/Target.elf.dir/flags.make
+CMakeFiles/Target.elf.dir/Lib/startup.S.obj: C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/DemoX/Lib/startup.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building ASM object CMakeFiles/Target.elf.dir/Lib/startup.S.obj"
+	C:\msys64\mingw64\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\Target.elf.dir\Lib\startup.S.obj -c C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\Lib\startup.S
+
+CMakeFiles/Target.elf.dir/Lib/startup.S.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/Target.elf.dir/Lib/startup.S.i"
+	C:\msys64\mingw64\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\Lib\startup.S > CMakeFiles\Target.elf.dir\Lib\startup.S.i
+
+CMakeFiles/Target.elf.dir/Lib/startup.S.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/Target.elf.dir/Lib/startup.S.s"
+	C:\msys64\mingw64\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\Lib\startup.S -o CMakeFiles\Target.elf.dir\Lib\startup.S.s
+
 CMakeFiles/Target.elf.dir/Lib/entry.cpp.obj: CMakeFiles/Target.elf.dir/flags.make
-CMakeFiles/Target.elf.dir/Lib/entry.cpp.obj: CMakeFiles/Target.elf.dir/includes_CXX.rsp
 CMakeFiles/Target.elf.dir/Lib/entry.cpp.obj: C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/DemoX/Lib/entry.cpp
 CMakeFiles/Target.elf.dir/Lib/entry.cpp.obj: CMakeFiles/Target.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Target.elf.dir/Lib/entry.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Target.elf.dir/Lib/entry.cpp.obj -MF CMakeFiles\Target.elf.dir\Lib\entry.cpp.obj.d -o CMakeFiles\Target.elf.dir\Lib\entry.cpp.obj -c C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\Lib\entry.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Target.elf.dir/Lib/entry.cpp.obj"
+	C:\msys64\mingw64\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Target.elf.dir/Lib/entry.cpp.obj -MF CMakeFiles\Target.elf.dir\Lib\entry.cpp.obj.d -o CMakeFiles\Target.elf.dir\Lib\entry.cpp.obj -c C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\Lib\entry.cpp
 
 CMakeFiles/Target.elf.dir/Lib/entry.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Target.elf.dir/Lib/entry.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\Lib\entry.cpp > CMakeFiles\Target.elf.dir\Lib\entry.cpp.i
+	C:\msys64\mingw64\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\Lib\entry.cpp > CMakeFiles\Target.elf.dir\Lib\entry.cpp.i
 
 CMakeFiles/Target.elf.dir/Lib/entry.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Target.elf.dir/Lib/entry.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\Lib\entry.cpp -o CMakeFiles\Target.elf.dir\Lib\entry.cpp.s
+	C:\msys64\mingw64\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\Lib\entry.cpp -o CMakeFiles\Target.elf.dir\Lib\entry.cpp.s
 
 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj: CMakeFiles/Target.elf.dir/flags.make
-CMakeFiles/Target.elf.dir/Lib/main.cpp.obj: CMakeFiles/Target.elf.dir/includes_CXX.rsp
 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj: C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/DemoX/Lib/main.cpp
 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj: CMakeFiles/Target.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Target.elf.dir/Lib/main.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Target.elf.dir/Lib/main.cpp.obj -MF CMakeFiles\Target.elf.dir\Lib\main.cpp.obj.d -o CMakeFiles\Target.elf.dir\Lib\main.cpp.obj -c C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\Lib\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Target.elf.dir/Lib/main.cpp.obj"
+	C:\msys64\mingw64\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Target.elf.dir/Lib/main.cpp.obj -MF CMakeFiles\Target.elf.dir\Lib\main.cpp.obj.d -o CMakeFiles\Target.elf.dir\Lib\main.cpp.obj -c C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\Lib\main.cpp
 
 CMakeFiles/Target.elf.dir/Lib/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Target.elf.dir/Lib/main.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\Lib\main.cpp > CMakeFiles\Target.elf.dir\Lib\main.cpp.i
+	C:\msys64\mingw64\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\Lib\main.cpp > CMakeFiles\Target.elf.dir\Lib\main.cpp.i
 
 CMakeFiles/Target.elf.dir/Lib/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Target.elf.dir/Lib/main.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\Lib\main.cpp -o CMakeFiles\Target.elf.dir\Lib\main.cpp.s
+	C:\msys64\mingw64\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\Lib\main.cpp -o CMakeFiles\Target.elf.dir\Lib\main.cpp.s
 
 # Object files for target Target.elf
 Target_elf_OBJECTS = \
+"CMakeFiles/Target.elf.dir/Lib/startup.S.obj" \
 "CMakeFiles/Target.elf.dir/Lib/entry.cpp.obj" \
 "CMakeFiles/Target.elf.dir/Lib/main.cpp.obj"
 
 # External object files for target Target.elf
 Target_elf_EXTERNAL_OBJECTS =
 
-bin/Target.elf.exe: CMakeFiles/Target.elf.dir/Lib/entry.cpp.obj
-bin/Target.elf.exe: CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
-bin/Target.elf.exe: CMakeFiles/Target.elf.dir/build.make
-bin/Target.elf.exe: CMakeFiles/Target.elf.dir/linkLibs.rsp
-bin/Target.elf.exe: CMakeFiles/Target.elf.dir/objects1.rsp
-bin/Target.elf.exe: CMakeFiles/Target.elf.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable bin\Target.elf.exe"
+bin/Target.elf: CMakeFiles/Target.elf.dir/Lib/startup.S.obj
+bin/Target.elf: CMakeFiles/Target.elf.dir/Lib/entry.cpp.obj
+bin/Target.elf: CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+bin/Target.elf: CMakeFiles/Target.elf.dir/build.make
+bin/Target.elf: CMakeFiles/Target.elf.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\DemoX\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable bin\Target.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Target.elf.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/Target.elf.dir/build: bin/Target.elf.exe
+CMakeFiles/Target.elf.dir/build: bin/Target.elf
 .PHONY : CMakeFiles/Target.elf.dir/build
 
 CMakeFiles/Target.elf.dir/clean:

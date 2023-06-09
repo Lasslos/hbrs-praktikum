@@ -65,7 +65,7 @@ include CMakeFiles/Target.bin.dir/compiler_depend.make
 # Include the progress variables for this target.
 include CMakeFiles/Target.bin.dir/progress.make
 
-CMakeFiles/Target.bin: bin/Target.elf.exe
+CMakeFiles/Target.bin: bin/Target.elf
 	arm-none-eabi-objcopy -Obinary C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/DemoX/build/bin/Target.elf C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/DemoX/build/bin/Target.bin
 
 Target.bin: CMakeFiles/Target.bin
