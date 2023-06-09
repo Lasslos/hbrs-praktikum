@@ -2,6 +2,6 @@
     "other":"settings",
     "cmake.configureArgs": [
             "-DCMAKE_TOOLCHAIN_FILE=C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/toolchain/toolchain.cmake",
-            "-DCMAKE_CXX_LINK_EXECUTABLE=C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/STM32FLASH.ld"
+            //"-DCMAKE_CXX_LINK_EXECUTABLE=C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/STM32FLASH.ld"
     ],
 }

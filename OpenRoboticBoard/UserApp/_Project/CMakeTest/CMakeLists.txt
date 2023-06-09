@@ -60,3 +60,14 @@ add_custom_target (flash COMMAND st-flash write ${EXECUTABLE_OUTPUT_PATH}/${CMAK
 
 # Make clean-all
 add_custom_target (clean-all COMMAND rm -rf ${CMAKE_BINARY_DIR}/*)
+
+# Some commands from a tutorial, maybe useful
+#target_link_options(${CMAKE_PROJECT_NAME}.elf PRIVATE "LINKER:-Map=${CMAKE_PROJECT_NAME}/${CONFIG}/${CMAKE_PROJECT_NAME}.map")
+#add_custom_command(TARGET ${CMAKE_PROJECT_NAME}.elf POST_BUILD
+#    COMMAND ${CMAKE_OBJCOPY} -Oihex ${CMAKE_PROJECT_NAME}.elf ${CMAKE_PROJECT_NAME}.hex
+#    COMMAND ${CMAKE_OBJCOPY} -Obinary ${CMAKE_PROJECT_NAME}.elf ${CMAKE_PROJECT_NAME}.bin
+#    COMMAND ${CMAKE_SIZE} ${CMAKE_PROJECT_NAME}.elf
+#    COMMENT "Building ${CMAKE_PROJECT_NAME}.hex
+#             Building ${CMAKE_PROJECT_NAME}.bin
+#             Building ${CMAKE_PROJECT_NAME}.elf"
+#    VERBATIM)

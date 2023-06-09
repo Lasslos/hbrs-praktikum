@@ -1,1 +1,1 @@
-C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/STM32FLASH.ld
+C:\msys64\mingw64\bin\arm-none-eabi-g++.exe -Wextra -Wshadow -Wredundant-decls  -Weffc++ -fno-common -ffunction-sections -fdata-sections -MD -Wall -Wundef -mthumb -mcpu=cortex-m4  -g -g -Wl,--gc-sections -Wl,-Map=Target.map -mthumb -mcpu=cortex-m4  -T C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/STM32FLASH.ld -L  CMakeFiles/Target.elf.dir/Lib/entry.cpp.obj CMakeFiles/Target.elf.dir/Lib/main.cpp.obj -o bin\Target.elf 

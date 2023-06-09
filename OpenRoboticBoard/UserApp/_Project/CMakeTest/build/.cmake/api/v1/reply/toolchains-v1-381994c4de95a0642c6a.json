@@ -24,12 +24,7 @@
 				"id" : "GNU",
 				"implicit" : 
 				{
-					"includeDirectories" : 
-					[
-						"C:/msys64/mingw64/lib/gcc/arm-none-eabi/10.1.0/include",
-						"C:/msys64/mingw64/lib/gcc/arm-none-eabi/10.1.0/include-fixed",
-						"C:/msys64/mingw64/arm-none-eabi/include"
-					],
+					"includeDirectories" : [],
 					"linkDirectories" : [],
 					"linkFrameworkDirectories" : [],
 					"linkLibraries" : []
@@ -50,15 +45,7 @@
 				"id" : "GNU",
 				"implicit" : 
 				{
-					"includeDirectories" : 
-					[
-						"C:/msys64/mingw64/arm-none-eabi/include/c++/10.1.0",
-						"C:/msys64/mingw64/arm-none-eabi/include/c++/10.1.0/arm-none-eabi",
-						"C:/msys64/mingw64/arm-none-eabi/include/c++/10.1.0/backward",
-						"C:/msys64/mingw64/lib/gcc/arm-none-eabi/10.1.0/include",
-						"C:/msys64/mingw64/lib/gcc/arm-none-eabi/10.1.0/include-fixed",
-						"C:/msys64/mingw64/arm-none-eabi/include"
-					],
+					"includeDirectories" : [],
 					"linkDirectories" : [],
 					"linkFrameworkDirectories" : [],
 					"linkLibraries" : []

@@ -69,9 +69,6 @@ CMAKE_CXX_FLAGS_RELEASE:STRING=-O3 -DNDEBUG
 //Flags used by the CXX compiler during RELWITHDEBINFO builds.
 CMAKE_CXX_FLAGS_RELWITHDEBINFO:STRING=-O2 -g -DNDEBUG
 
-//No help, variable specified on the command line.
-CMAKE_CXX_LINK_EXECUTABLE:UNINITIALIZED=C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/STM32FLASH.ld
-
 //C compiler
 CMAKE_C_COMPILER:STRING=C:/msys64/mingw64/bin/arm-none-eabi-gcc.exe
 

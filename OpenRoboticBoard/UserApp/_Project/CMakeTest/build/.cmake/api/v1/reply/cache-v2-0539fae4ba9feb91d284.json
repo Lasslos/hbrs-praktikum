@@ -414,18 +414,6 @@
 			"value" : "-O2 -g -DNDEBUG"
 		},
 		{
-			"name" : "CMAKE_CXX_LINK_EXECUTABLE",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
-				}
-			],
-			"type" : "UNINITIALIZED",
-			"value" : "C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/STM32FLASH.ld"
-		},
-		{
 			"name" : "CMAKE_C_COMPILER",
 			"properties" : 
 			[
