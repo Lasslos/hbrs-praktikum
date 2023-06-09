@@ -1,0 +1,32 @@
+Dependencies for Project 'main', Target 'Target': (DO NOT MODIFY !)
+F (.\Lib\entry.cpp)(0x647DC228)(--cpp -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Src -IC:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\Firmware -I..\..\..\Middleware\Src --diag_suppress=1035-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F4xx-DUSE_UART -DSTM32F405xx -D__ARM_STM32F405__ -D_HSE_CLK="8000" -D_HSE_BYPASS_OFF -DHSE_VALUE="8000000" -DHSI_VALUE="8000000" -D_KEIL -DSTM32F40_41xxx-o .\bin\entry.o --omf_browse .\bin\entry.crf --depend .\bin\entry.d)
+I (C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\Firmware\Common\Src\ORBlocal.h)(0x647DA087)
+I (C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\Firmware\Common\Src\ORB.h)(0x647DA087)
+I (C:\Keil\ARM\ARMCC\include\stdarg.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\inttypes.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+F (.\Lib\main.cpp)(0x647DA08B)(--cpp -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Src -IC:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\Firmware -I..\..\..\Middleware\Src --diag_suppress=1035-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F4xx-DUSE_UART -DSTM32F405xx -D__ARM_STM32F405__ -D_HSE_CLK="8000" -D_HSE_BYPASS_OFF -DHSE_VALUE="8000000" -DHSI_VALUE="8000000" -D_KEIL -DSTM32F40_41xxx-o .\bin\main.o --omf_browse .\bin\main.crf --depend .\bin\main.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\inttypes.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\Firmware\Common\Src\ORBlocal.h)(0x647DA087)
+I (C:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\Firmware\Common\Src\ORB.h)(0x647DA087)
+I (C:\Keil\ARM\ARMCC\include\stdarg.h)(0x51C819B4)
+I (..\..\..\Middleware\Src\Value.h)(0x647DA08A)
+I (..\..\..\Middleware\Src\Memory.h)(0x647DA08A)
+I (..\..\..\Middleware\Src\Timer.h)(0x647DA08A)
+I (..\..\..\Middleware\Src\Motor.h)(0x647DDBFB)
+I (..\..\..\Middleware\Src\DoppelMotor.h)(0x647DA08A)
+I (..\..\..\Middleware\Src\Sensor.h)(0x647EE26C)
+I (..\..\..\Middleware\Src\SensorColorTCS3472.h)(0x647DA08A)
+I (..\..\..\Middleware\Src\SensorDigital.h)(0x647DA08A)
+I (..\..\..\Middleware\Src\SensorExtra.h)(0x647DA08A)
+I (..\..\..\Middleware\Src\EncoderServo.h)(0x647DA08A)
+I (C:\Keil\ARM\ARMCC\include\math.h)(0x51C819B4)
+I (..\..\..\Middleware\Src\ModelServo.h)(0x647DA08A)
+I (..\..\..\Middleware\Src\Drive.h)(0x647DA08A)
+I (..\..\..\Middleware\Src\Monitor.h)(0x647DA08A)
+I (.\Src\Application.h)(0x6482F3F4)
+F (.\Lib\startup.s)(0x647DA08B)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F4xx--list .\bin\keil\startup.lst --xref -o .\bin\startup.o --depend .\bin\startup.d)
+F (.\Src\Application.h)(0x6482F3F4)()

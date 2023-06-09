@@ -34,12 +34,10 @@ set (CMAKE_CXX_FLAGS "-Wextra -Wshadow -Wredundant-decls  -Weffc++ -fno-common -
 set (CMAKE_ASM_FLAGS "-g -mthumb -mcpu=cortex-m4 " CACHE INTERNAL "asm compiler flags")
 
 # LDFLAGS
-set (CMAKE_EXE_LINKER_FLAGS "-g -Wl,--gc-sections -Wl,-Map=Target.map -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard" CACHE INTERNAL "executable linker flags")
+set (CMAKE_EXE_LINKER_FLAGS "-g -Wl,--gc-sections -Wl,-Map=Target.map -mthumb -mcpu=cortex-m4 " CACHE INTERNAL "executable linker flags")
 set (CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -T ${CMAKE_SOURCE_DIR}/stm32f4xx_gcc.ld -L ")
 
-#Set these variables:
-#-mcpu=cortex-m4 -mthumb -specs=nano.specs -specs=nosys.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard
-set (CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard")
+#set (CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -specs=nano.specs")
 
 # Generate the target
 add_executable (${CMAKE_PROJECT_NAME}.elf  ${SRC_FILE0}  ${SRC_FILE1}  ${SRC_FILE2} )

@@ -1,0 +1,963 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(class_type_info.o)
+                              CMakeFiles/Target.elf.dir/Lib/main.cpp.obj (vtable for __cxxabiv1::__class_type_info)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(del_ops.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(class_type_info.o) (operator delete(void*, unsigned int))
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(pure.o)
+                              CMakeFiles/Target.elf.dir/Lib/main.cpp.obj (__cxa_pure_virtual)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(si_class_type_info.o)
+                              CMakeFiles/Target.elf.dir/Lib/main.cpp.obj (vtable for __cxxabiv1::__si_class_type_info)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(tinfo.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(class_type_info.o) (std::type_info::~type_info())
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(del_op.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(del_ops.o) (operator delete(void*))
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_terminate.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(pure.o) (std::terminate())
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_unex_handler.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_terminate.o) (__cxxabiv1::__unexpected_handler)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_term_handler.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_terminate.o) (__cxxabiv1::__terminate_handler)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+                              CMakeFiles/Target.elf.dir/Lib/main.cpp.obj (__aeabi_fmul)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                              CMakeFiles/Target.elf.dir/Lib/main.cpp.obj (__aeabi_fsub)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+                              CMakeFiles/Target.elf.dir/Lib/main.cpp.obj (__aeabi_fdiv)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
+                              CMakeFiles/Target.elf.dir/Lib/main.cpp.obj (__aeabi_f2iz)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                              CMakeFiles/Target.elf.dir/Lib/main.cpp.obj (__aeabi_unwind_cpp_pr1)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(libunwind.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o) (restore_core_regs)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o) (__gnu_unwind_execute)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-abort.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_terminate.o) (abort)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-atexit.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (atexit)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fini.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_fini_array)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-malloc.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(del_op.o) (free)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memcpy.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o) (memcpy)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-freer.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-malloc.o) (_free_r)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-malloc.o) (_malloc_r)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-sbrkr.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-signal.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-abort.o) (raise)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-signalr.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-signal.o) (_kill_r)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strcmp.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(tinfo.o) (strcmp)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-syswrite.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(pure.o) (write)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-writer.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-syswrite.o) (_write_r)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-__atexit.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-atexit.o) (__register_exitproc)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-__call_atexit.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-__atexit.o) (__call_exitprocs)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-__atexit.o) (__retarget_lock_acquire_recursive)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-mlock.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-reent.o)
+                              c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-sbrkr.o) (errno)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+errno               0x4               c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-reent.o)
+__lock___env_recursive_mutex
+                    0x1               c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crti.o
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crti.o
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crti.o
+ .text          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtbegin.o
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtbegin.o
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtbegin.o
+ .data.__dso_handle
+                0x0000000000000000        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x0000000000000000       0x70 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .group         0x0000000000000000       0x18 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000       0x14 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000       0x18 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000       0x18 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000       0x18 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000       0x18 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000       0x18 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000       0x18 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000       0x18 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000       0x14 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000       0x18 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000       0x18 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000       0x18 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .bss.orbPtr    0x0000000000000000        0x4 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .text._ZN6Memory4ItemC2Em
+                0x0000000000000000       0x22 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.extab.text._ZN6Memory4ItemC2Em
+                0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.exidx.text._ZN6Memory4ItemC2Em
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .text._ZN6Memory4ItemcviEv
+                0x0000000000000000       0x16 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.extab.text._ZN6Memory4ItemcviEv
+                0x0000000000000000        0x0 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.exidx.text._ZN6Memory4ItemcviEv
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .text._ZN6Memory5cleanEv
+                0x0000000000000000       0x18 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.extab.text._ZN6Memory5cleanEv
+                0x0000000000000000        0x0 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.exidx.text._ZN6Memory5cleanEv
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .bss._ZN6Memory5firstE
+                0x0000000000000000        0x4 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .text._ZN6Memory7addItemEPNS_4ItemEm
+                0x0000000000000000       0x84 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.extab.text._ZN6Memory7addItemEPNS_4ItemEm
+                0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.exidx.text._ZN6Memory7addItemEPNS_4ItemEm
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .text._ZN6Memory5storeEv
+                0x0000000000000000       0xc4 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.extab.text._ZN6Memory5storeEv
+                0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.exidx.text._ZN6Memory5storeEv
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .text._ZN5ValueIiEC2Ev
+                0x0000000000000000       0x20 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.extab.text._ZN5ValueIiEC2Ev
+                0x0000000000000000        0x0 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.exidx.text._ZN5ValueIiEC2Ev
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .text._ZN6SensorC2ENS_15SensorPort_typeEh
+                0x0000000000000000       0x88 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.extab.text._ZN6SensorC2ENS_15SensorPort_typeEh
+                0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.exidx.text._ZN6SensorC2ENS_15SensorPort_typeEh
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .text._ZN6Sensor4initEh
+                0x0000000000000000      0x2a8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.extab.text._ZN6Sensor4initEh
+                0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.exidx.text._ZN6Sensor4initEh
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .text._ZN6Sensor3getEv
+                0x0000000000000000      0x16c CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.extab.text._ZN6Sensor3getEv
+                0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.exidx.text._ZN6Sensor3getEv
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .text._ZN7MonitorC2Ev
+                0x0000000000000000       0x28 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.extab.text._ZN7MonitorC2Ev
+                0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.exidx.text._ZN7MonitorC2Ev
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .rodata        0x0000000000000000       0x47 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .text._ZN7Monitor5clearEv
+                0x0000000000000000       0x44 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.extab.text._ZN7Monitor5clearEv
+                0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.exidx.text._ZN7Monitor5clearEv
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .text._ZN7Monitor5printEhPKcz
+                0x0000000000000000       0x48 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.extab.text._ZN7Monitor5printEhPKcz
+                0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.exidx.text._ZN7Monitor5printEhPKcz
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .text._ZN16cApplicationBaseC2Ev
+                0x0000000000000000       0x20 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.extab.text._ZN16cApplicationBaseC2Ev
+                0x0000000000000000        0x0 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.exidx.text._ZN16cApplicationBaseC2Ev
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .text._ZN12cApplicationC2Ev
+                0x0000000000000000       0x48 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.extab.text._ZN12cApplicationC2Ev
+                0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.exidx.text._ZN12cApplicationC2Ev
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .text._ZN12cApplication3runEh
+                0x0000000000000000       0x50 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.extab.text._ZN12cApplication3runEh
+                0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.exidx.text._ZN12cApplication3runEh
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .text._Z4MainhR9cORBlocal
+                0x0000000000000000       0x3c CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.extab.text._Z4MainhR9cORBlocal
+                0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.exidx.text._Z4MainhR9cORBlocal
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .rodata._ZTV12cApplication
+                0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .rodata._ZTV6Sensor
+                0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .rodata._ZTV5ValueIiE
+                0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .rodata._ZTV16cApplicationBase
+                0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .rodata._ZTI12cApplication
+                0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .rodata._ZTS12cApplication
+                0x0000000000000000        0xf CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .rodata._ZTI6Sensor
+                0x0000000000000000        0xc CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .rodata._ZTS6Sensor
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .rodata._ZTI5ValueIiE
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .rodata._ZTS5ValueIiE
+                0x0000000000000000        0xa CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .rodata._ZTI16cApplicationBase
+                0x0000000000000000        0x8 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .rodata._ZTS16cApplicationBase
+                0x0000000000000000       0x13 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .debug_info    0x0000000000000000     0x277b CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .debug_abbrev  0x0000000000000000      0x5b5 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .debug_aranges
+                0x0000000000000000       0x98 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .debug_ranges  0x0000000000000000       0x88 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .debug_line    0x0000000000000000      0x7df CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .debug_str     0x0000000000000000     0x15de CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .comment       0x0000000000000000       0x13 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .debug_frame   0x0000000000000000      0x278 CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+ .text          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(class_type_info.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(class_type_info.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(class_type_info.o)
+ .text._ZNK10__cxxabiv117__class_type_info11__do_upcastEPKS0_PPv
+                0x0000000000000000       0x32 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(class_type_info.o)
+ .text._ZNK10__cxxabiv117__class_type_info20__do_find_public_srcEiPKvPKS0_S2_
+                0x0000000000000000        0xc c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(class_type_info.o)
+ .text._ZN10__cxxabiv117__class_type_infoD2Ev
+                0x0000000000000000       0x14 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(class_type_info.o)
+ .text._ZN10__cxxabiv117__class_type_infoD0Ev
+                0x0000000000000000       0x14 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(class_type_info.o)
+ .text._ZNK10__cxxabiv117__class_type_info12__do_dyncastEiNS0_10__sub_kindEPKS0_PKvS3_S5_RNS0_16__dyncast_resultE
+                0x0000000000000000       0x3e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(class_type_info.o)
+ .text._ZNK10__cxxabiv117__class_type_info11__do_upcastEPKS0_PKvRNS0_15__upcast_resultE
+                0x0000000000000000       0x18 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(class_type_info.o)
+ .text._ZNK10__cxxabiv117__class_type_info10__do_catchEPKSt9type_infoPPvj
+                0x0000000000000000       0x2a c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(class_type_info.o)
+ .rodata._ZTIN10__cxxabiv117__class_type_infoE
+                0x0000000000000000        0xc c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(class_type_info.o)
+ .rodata._ZTSN10__cxxabiv117__class_type_infoE
+                0x0000000000000000       0x22 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(class_type_info.o)
+ .rodata._ZTVN10__cxxabiv117__class_type_infoE
+                0x0000000000000000       0x2c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(class_type_info.o)
+ .debug_frame   0x0000000000000000       0xd8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(class_type_info.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(class_type_info.o)
+ .text          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(del_ops.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(del_ops.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(del_ops.o)
+ .text._ZdlPvj  0x0000000000000000        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(del_ops.o)
+ .debug_frame   0x0000000000000000       0x20 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(del_ops.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(del_ops.o)
+ .text          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(pure.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(pure.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(pure.o)
+ .rodata.__cxa_pure_virtual.str1.1
+                0x0000000000000000       0x1c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(pure.o)
+ .text.__cxa_pure_virtual
+                0x0000000000000000       0x14 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(pure.o)
+ .rodata.__cxa_deleted_virtual.str1.1
+                0x0000000000000000       0x1f c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(pure.o)
+ .text.__cxa_deleted_virtual
+                0x0000000000000000       0x14 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(pure.o)
+ .debug_frame   0x0000000000000000       0x40 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(pure.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(pure.o)
+ .text          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(si_class_type_info.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(si_class_type_info.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(si_class_type_info.o)
+ .text._ZN10__cxxabiv120__si_class_type_infoD2Ev
+                0x0000000000000000       0x14 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(si_class_type_info.o)
+ .text._ZN10__cxxabiv120__si_class_type_infoD0Ev
+                0x0000000000000000       0x14 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(si_class_type_info.o)
+ .text._ZNK10__cxxabiv120__si_class_type_info20__do_find_public_srcEiPKvPKNS_17__class_type_infoES2_
+                0x0000000000000000       0x3c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(si_class_type_info.o)
+ .text._ZNK10__cxxabiv120__si_class_type_info12__do_dyncastEiNS_17__class_type_info10__sub_kindEPKS1_PKvS4_S6_RNS1_16__dyncast_resultE
+                0x0000000000000000       0x74 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(si_class_type_info.o)
+ .text._ZNK10__cxxabiv120__si_class_type_info11__do_upcastEPKNS_17__class_type_infoEPKvRNS1_15__upcast_resultE
+                0x0000000000000000       0x2a c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(si_class_type_info.o)
+ .rodata._ZTIN10__cxxabiv120__si_class_type_infoE
+                0x0000000000000000        0xc c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(si_class_type_info.o)
+ .rodata._ZTSN10__cxxabiv120__si_class_type_infoE
+                0x0000000000000000       0x25 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(si_class_type_info.o)
+ .rodata._ZTVN10__cxxabiv120__si_class_type_infoE
+                0x0000000000000000       0x2c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(si_class_type_info.o)
+ .debug_frame   0x0000000000000000       0xd4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(si_class_type_info.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(si_class_type_info.o)
+ .text          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(tinfo.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(tinfo.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(tinfo.o)
+ .text._ZNSt9type_infoD2Ev
+                0x0000000000000000        0x2 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(tinfo.o)
+ .text._ZNKSt9type_info14__is_pointer_pEv
+                0x0000000000000000        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(tinfo.o)
+ .text._ZNKSt9type_info11__do_upcastEPKN10__cxxabiv117__class_type_infoEPPv
+                0x0000000000000000        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(tinfo.o)
+ .text._ZNSt9type_infoD0Ev
+                0x0000000000000000        0xe c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(tinfo.o)
+ .text._ZNKSt9type_infoeqERKS_
+                0x0000000000000000       0x2c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(tinfo.o)
+ .text._ZNKSt9type_info10__do_catchEPKS_PPvj
+                0x0000000000000000        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(tinfo.o)
+ .rodata._ZTISt9type_info
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(tinfo.o)
+ .rodata._ZTSSt9type_info
+                0x0000000000000000        0xd c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(tinfo.o)
+ .rodata._ZTVSt9type_info
+                0x0000000000000000       0x20 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(tinfo.o)
+ .debug_frame   0x0000000000000000       0x80 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(tinfo.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(tinfo.o)
+ .text          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(del_op.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(del_op.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(del_op.o)
+ .text._ZdlPv   0x0000000000000000        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(del_op.o)
+ .debug_frame   0x0000000000000000       0x20 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(del_op.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(del_op.o)
+ .text          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_terminate.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_terminate.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_terminate.o)
+ .text._ZN10__cxxabiv111__terminateEPFvvE
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_terminate.o)
+ .text._ZSt13set_terminatePFvvE
+                0x0000000000000000       0x28 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_terminate.o)
+ .text._ZSt13get_terminatev
+                0x0000000000000000       0x10 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_terminate.o)
+ .text._ZSt9terminatev
+                0x0000000000000000        0xa c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_terminate.o)
+ .text._ZN10__cxxabiv112__unexpectedEPFvvE
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_terminate.o)
+ .text._ZSt14set_unexpectedPFvvE
+                0x0000000000000000       0x28 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_terminate.o)
+ .text._ZSt14get_unexpectedv
+                0x0000000000000000       0x10 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_terminate.o)
+ .text._ZSt10unexpectedv
+                0x0000000000000000        0xa c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_terminate.o)
+ .debug_frame   0x0000000000000000       0xb0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_terminate.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_terminate.o)
+ .text          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_unex_handler.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_unex_handler.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_unex_handler.o)
+ .data._ZN10__cxxabiv120__unexpected_handlerE
+                0x0000000000000000        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_unex_handler.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_unex_handler.o)
+ .text          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_term_handler.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_term_handler.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_term_handler.o)
+ .data._ZN10__cxxabiv119__terminate_handlerE
+                0x0000000000000000        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_term_handler.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a(eh_term_handler.o)
+ .text          0x0000000000000000      0x168 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .debug_frame   0x0000000000000000       0x24 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .text          0x0000000000000000      0x21c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x0000000000000000       0x4c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .text          0x0000000000000000      0x2a0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .debug_frame   0x0000000000000000       0x38 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .text          0x0000000000000000       0x4c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
+ .debug_frame   0x0000000000000000       0x24 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
+ .text          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.selfrel_offset31
+                0x0000000000000000       0x12 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.selfrel_offset31
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.selfrel_offset31
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.search_EIT_table
+                0x0000000000000000       0x62 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.search_EIT_table
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.search_EIT_table
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.__gnu_unwind_get_pr_addr
+                0x0000000000000000       0x28 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_unwind_get_pr_addr
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_unwind_get_pr_addr
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.get_eit_entry
+                0x0000000000000000       0x94 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.get_eit_entry
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.get_eit_entry
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.restore_non_core_regs
+                0x0000000000000000       0x4c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.restore_non_core_regs
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.restore_non_core_regs
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.__gnu_unwind_24bit.constprop.0
+                0x0000000000000000        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_unwind_24bit.constprop.0
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_unwind_24bit.constprop.0
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text._Unwind_decode_typeinfo_ptr.constprop.0
+                0x0000000000000000        0xa c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_decode_typeinfo_ptr.constprop.0
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_decode_typeinfo_ptr.constprop.0
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text._Unwind_DebugHook
+                0x0000000000000000        0x2 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_DebugHook
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_DebugHook
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.unwind_phase2
+                0x0000000000000000       0x3a c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.unwind_phase2
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.unwind_phase2
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.unwind_phase2_forced
+                0x0000000000000000       0xb0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.unwind_phase2_forced
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.unwind_phase2_forced
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text._Unwind_GetCFA
+                0x0000000000000000        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_GetCFA
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_GetCFA
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.__gnu_Unwind_RaiseException
+                0x0000000000000000       0x5a c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_RaiseException
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_RaiseException
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.__gnu_Unwind_ForcedUnwind
+                0x0000000000000000       0x14 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_ForcedUnwind
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_ForcedUnwind
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.__gnu_Unwind_Resume
+                0x0000000000000000       0x40 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_Resume
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_Resume
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.__gnu_Unwind_Resume_or_Rethrow
+                0x0000000000000000       0x12 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_Resume_or_Rethrow
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_Resume_or_Rethrow
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text._Unwind_Complete
+                0x0000000000000000        0x2 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_Complete
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_Complete
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text._Unwind_DeleteException
+                0x0000000000000000        0xc c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_DeleteException
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_DeleteException
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text._Unwind_VRS_Get
+                0x0000000000000000       0x30 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_VRS_Get
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_VRS_Get
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text._Unwind_GetGR
+                0x0000000000000000       0x18 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_GetGR
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_GetGR
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text._Unwind_VRS_Set
+                0x0000000000000000       0x30 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_VRS_Set
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_VRS_Set
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text._Unwind_SetGR
+                0x0000000000000000       0x18 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_SetGR
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_SetGR
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.__gnu_Unwind_Backtrace
+                0x0000000000000000       0x6c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_Backtrace
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_Backtrace
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.__gnu_unwind_pr_common
+                0x0000000000000000      0x244 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_unwind_pr_common
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_unwind_pr_common
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.__aeabi_unwind_cpp_pr0
+                0x0000000000000000        0x6 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__aeabi_unwind_cpp_pr0
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr0
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.__aeabi_unwind_cpp_pr1
+                0x0000000000000000        0x6 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__aeabi_unwind_cpp_pr1
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr1
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.__aeabi_unwind_cpp_pr2
+                0x0000000000000000        0x6 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__aeabi_unwind_cpp_pr2
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr2
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text._Unwind_VRS_Pop
+                0x0000000000000000      0x232 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_VRS_Pop
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_VRS_Pop
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .debug_frame   0x0000000000000000      0x2b8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text          0x0000000000000000      0x1ac c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(libunwind.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(libunwind.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(libunwind.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(libunwind.o)
+ .text          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .text.next_unwind_byte
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.extab.text.next_unwind_byte
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.exidx.text.next_unwind_byte
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .text._Unwind_GetGR.constprop.0
+                0x0000000000000000       0x18 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetGR.constprop.0
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetGR.constprop.0
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .text.unwind_UCB_from_context
+                0x0000000000000000        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.extab.text.unwind_UCB_from_context
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.exidx.text.unwind_UCB_from_context
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .text.__gnu_unwind_execute
+                0x0000000000000000      0x23e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.extab.text.__gnu_unwind_execute
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.exidx.text.__gnu_unwind_execute
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .text.__gnu_unwind_frame
+                0x0000000000000000       0x2a c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.extab.text.__gnu_unwind_frame
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.exidx.text.__gnu_unwind_frame
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .text._Unwind_GetRegionStart
+                0x0000000000000000        0xa c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetRegionStart
+                0x0000000000000000        0xc c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetRegionStart
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .text._Unwind_GetLanguageSpecificData
+                0x0000000000000000       0x12 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetLanguageSpecificData
+                0x0000000000000000        0xc c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetLanguageSpecificData
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .text.unlikely._Unwind_GetDataRelBase
+                0x0000000000000000        0x6 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.extab.text.unlikely._Unwind_GetDataRelBase
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.exidx.text.unlikely._Unwind_GetDataRelBase
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .text.unlikely._Unwind_GetTextRelBase
+                0x0000000000000000        0x6 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.extab.text.unlikely._Unwind_GetTextRelBase
+                0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.exidx.text.unlikely._Unwind_GetTextRelBase
+                0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .debug_frame   0x0000000000000000       0xec c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .text          0x0000000000000000       0x10 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-abort.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-abort.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-abort.o)
+ .debug_frame   0x0000000000000000       0x28 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-abort.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-abort.o)
+ .text          0x0000000000000000        0xc c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000000       0x20 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-atexit.o)
+ .text          0x0000000000000000       0x28 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000       0x34 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000000       0x34 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000       0x64 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .rodata        0x0000000000000000        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000       0x48 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000000000       0x2c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .text          0x0000000000000000       0x20 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-malloc.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-malloc.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-malloc.o)
+ .debug_frame   0x0000000000000000       0x30 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-malloc.o)
+ .text          0x0000000000000000      0x134 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000000000000000       0x1c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memcpy.o)
+ .text          0x0000000000000000       0xa0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000000       0x38 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000       0xac c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000000000       0x58 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000       0xc8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000000000000000       0x30 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000       0x24 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000000       0x2c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000      0x150 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-signal.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-signal.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-signal.o)
+ .debug_frame   0x0000000000000000       0xe0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-signal.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-signal.o)
+ .text          0x0000000000000000       0x2c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-signalr.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-signalr.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-signalr.o)
+ .debug_frame   0x0000000000000000       0x3c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-signalr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-signalr.o)
+ .text          0x0000000000000000      0x2dc c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strcmp.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strcmp.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strcmp.o)
+ .debug_frame   0x0000000000000000       0x68 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x0000000000000000       0x1c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strcmp.o)
+ .text          0x0000000000000000       0x18 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-syswrite.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-syswrite.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-syswrite.o)
+ .debug_frame   0x0000000000000000       0x2c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-syswrite.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-syswrite.o)
+ .text          0x0000000000000000       0x2c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-writer.o)
+ .debug_frame   0x0000000000000000       0x2c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-writer.o)
+ .text          0x0000000000000000       0xc0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000       0x8c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000000       0x34 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-__atexit.o)
+ .text          0x0000000000000000       0xb0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000000       0x4c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000       0x28 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000000       0xb0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+ COMMON         0x0000000000000000       0x21 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+ .text          0x0000000000000000       0x18 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000000       0x30 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000       0xe8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000000000000000       0x6c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-reent.o)
+ COMMON         0x0000000000000000        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtend.o
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtend.o
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtend.o
+ .text          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtn.o
+ .data          0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtn.o
+ .bss           0x0000000000000000        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ROM              0x0000000008020004 0x000000000007fc00 xr
+RAM              0x0000000010000000 0x0000000000010000 xrw
+CCRAM            0x0000000010000000 0x0000000000008000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crti.o
+LOAD c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtbegin.o
+LOAD c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD CMakeFiles/Target.elf.dir/Lib/main.cpp.obj
+LOAD c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libstdc++_nano.a
+LOAD c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a
+START GROUP
+LOAD c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a
+LOAD c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a
+END GROUP
+LOAD c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtend.o
+LOAD c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtn.o
+
+.text           0x0000000008020004       0x5c
+ *(.isr_vector)
+ *(.text*)
+ .text.__do_global_dtors_aux
+                0x0000000008020004       0x24 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtbegin.o
+ .text.frame_dummy
+                0x0000000008020028       0x1c c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x0000000008020044        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crti.o
+                0x0000000008020044                _init
+ .init          0x0000000008020048        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x0000000008020050        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crti.o
+                0x0000000008020050                _fini
+ .fini          0x0000000008020054        0x8 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ *(.eh_frame*)
+ .eh_frame      0x000000000802005c        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtbegin.o
+ .eh_frame      0x000000000802005c        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtend.o
+
+.glue_7         0x0000000008020060        0x0
+ .glue_7        0x0000000008020060        0x0 linker stubs
+
+.glue_7t        0x0000000008020060        0x0
+ .glue_7t       0x0000000008020060        0x0 linker stubs
+
+.vfp11_veneer   0x0000000008020060        0x0
+ .vfp11_veneer  0x0000000008020060        0x0 linker stubs
+
+.v4_bx          0x0000000008020060        0x0
+ .v4_bx         0x0000000008020060        0x0 linker stubs
+
+.iplt           0x0000000008020060        0x0
+ .iplt          0x0000000008020060        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtbegin.o
+
+.rel.dyn        0x0000000008020060        0x0
+ .rel.iplt      0x0000000008020060        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000008020060                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000000008020060                __exidx_end = .
+                0x0000000008020060                __etext = .
+
+.data           0x0000000010000000        0x8 load address 0x0000000008020060
+                0x0000000010000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+                0x0000000010000000                . = ALIGN (0x4)
+                0x0000000010000000                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x0000000010000000                PROVIDE (__preinit_array_end = .)
+                0x0000000010000000                . = ALIGN (0x4)
+                0x0000000010000000                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x0000000010000000        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtbegin.o
+                0x0000000010000004                PROVIDE (__init_array_end = .)
+                0x0000000010000004                . = ALIGN (0x4)
+                0x0000000010000004                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x0000000010000004        0x4 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtbegin.o
+                0x0000000010000008                PROVIDE (__fini_array_end = .)
+                0x0000000010000008                . = ALIGN (0x4)
+                0x0000000010000008                __data_end__ = .
+
+.igot.plt       0x0000000010000008        0x0 load address 0x0000000008020068
+ .igot.plt      0x0000000010000008        0x0 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtbegin.o
+
+.bss            0x0000000010000008       0x1c load address 0x0000000008020068
+                0x0000000010000008                __bss_start__ = .
+ *(.bss*)
+ .bss.completed.1
+                0x0000000010000008        0x1 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtbegin.o
+ *fill*         0x0000000010000009        0x3 
+ .bss.object.0  0x000000001000000c       0x18 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtbegin.o
+ *(COMMON)
+                0x0000000010000024                __bss_end__ = .
+
+.heap           0x0000000010000024        0x0
+                0x0000000010000024                __end__ = .
+                0x0000000010000024                end = __end__
+ *(.heap*)
+                0x0000000010000024                __HeapLimit = .
+
+.stack_dummy    0x0000000010000024        0x0
+ *(.stack)
+                0x0000000010010000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x0000000010010000                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x0000000010010000                PROVIDE (__stack = __StackTop)
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+
+.startAppSegment
+ *(.startAppSection)
+OUTPUT(bin\Target.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x0000000000000000       0x2a
+ .ARM.attributes
+                0x0000000000000000       0x1e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x000000000000004c       0x2e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x000000000000007a       0x1e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/thumb/v7e-m/nofp/crtn.o
