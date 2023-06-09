@@ -52,9 +52,9 @@ CMakeFiles/Target.elf.dir/Lib/main.cpp.obj: \
  C\:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\Middleware\Src/EncoderServo.h \
  c\:\msys64\mingw64\arm-none-eabi\include\c++\10.1.0\math.h \
  c\:\msys64\mingw64\arm-none-eabi\include\c++\10.1.0\cmath \
- c\:\msys64\mingw64\arm-none-eabi\include\c++\10.1.0\arm-none-eabi\thumb\v7e-m\nofp\bits\c++config.h \
- c\:\msys64\mingw64\arm-none-eabi\include\c++\10.1.0\arm-none-eabi\thumb\v7e-m\nofp\bits\os_defines.h \
- c\:\msys64\mingw64\arm-none-eabi\include\c++\10.1.0\arm-none-eabi\thumb\v7e-m\nofp\bits\cpu_defines.h \
+ c\:\msys64\mingw64\arm-none-eabi\include\c++\10.1.0\arm-none-eabi\thumb\v7e-m+fp\hard\bits\c++config.h \
+ c\:\msys64\mingw64\arm-none-eabi\include\c++\10.1.0\arm-none-eabi\thumb\v7e-m+fp\hard\bits\os_defines.h \
+ c\:\msys64\mingw64\arm-none-eabi\include\c++\10.1.0\arm-none-eabi\thumb\v7e-m+fp\hard\bits\cpu_defines.h \
  c\:\msys64\mingw64\arm-none-eabi\include\c++\10.1.0\bits\cpp_type_traits.h \
  c\:\msys64\mingw64\arm-none-eabi\include\c++\10.1.0\ext\type_traits.h \
  c\:\msys64\mingw64\arm-none-eabi\include\math.h \

@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = -IC:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\UserApp\_Project\CMakeTest\.\Src -IC:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\Firmware -IC:\Users\Laslo\Development\cpp\hbrs-praktikum\OpenRoboticBoard\Middleware\Src
 
-CXX_FLAGS = -Wextra -Wshadow -Wredundant-decls  -Weffc++ -fno-common -ffunction-sections -fdata-sections -MD -Wall -Wundef -mthumb -mcpu=cortex-m4  -g
+CXX_FLAGS = -Wextra -Wshadow -Wredundant-decls  -Weffc++ -fno-common -ffunction-sections -fdata-sections -MD -Wall -Wundef -mthumb -mcpu=cortex-m4  -specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -g
 

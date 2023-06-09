@@ -102,20 +102,20 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-xer9ex"
-      binary: "C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-xer9ex"
+      source: "C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-gkdzg6"
+      binary: "C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-gkdzg6"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
     buildResult:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-xer9ex
+        Change Dir: C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-gkdzg6
         
-        Run Build Command(s):C:/Program Files/CMake/bin/cmake.exe -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_05690/fast && C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_05690.dir\\build.make CMakeFiles/cmTC_05690.dir/build
-        mingw32-make[1]: Entering directory 'C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-xer9ex'
-        Building C object CMakeFiles/cmTC_05690.dir/CMakeCCompilerABI.c.obj
-        C:\\msys64\\mingw64\\bin\\arm-none-eabi-gcc.exe   -v -o CMakeFiles\\cmTC_05690.dir\\CMakeCCompilerABI.c.obj -c "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+        Run Build Command(s):C:/Program Files/CMake/bin/cmake.exe -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_3af1d/fast && C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_3af1d.dir\\build.make CMakeFiles/cmTC_3af1d.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-gkdzg6'
+        Building C object CMakeFiles/cmTC_3af1d.dir/CMakeCCompilerABI.c.obj
+        C:\\msys64\\mingw64\\bin\\arm-none-eabi-gcc.exe   -v -o CMakeFiles\\cmTC_3af1d.dir\\CMakeCCompilerABI.c.obj -c "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\mingw64\\bin\\arm-none-eabi-gcc.exe
         Target: arm-none-eabi
@@ -123,8 +123,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib zstd
         gcc version 10.1.0 (GCC) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_05690.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
-         c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/cc1.exe -quiet -v -iprefix c:\\msys64\\mingw64\\bin\\../lib/gcc/arm-none-eabi/10.1.0/ -D__USES_INITFINI__ C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=arm7tdmi -mfloat-abi=soft -marm -march=armv4t -auxbase-strip CMakeFiles\\cmTC_05690.dir\\CMakeCCompilerABI.c.obj -version -o C:\\Users\\Laslo\\AppData\\Local\\Temp\\cclwuLeh.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_3af1d.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
+         c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/cc1.exe -quiet -v -iprefix c:\\msys64\\mingw64\\bin\\../lib/gcc/arm-none-eabi/10.1.0/ -D__USES_INITFINI__ C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=arm7tdmi -mfloat-abi=soft -marm -march=armv4t -auxbase-strip CMakeFiles\\cmTC_3af1d.dir\\CMakeCCompilerABI.c.obj -version -o C:\\Users\\Laslo\\AppData\\Local\\Temp\\cc9xwKnu.s
         GNU C17 (GCC) version 10.1.0 (arm-none-eabi)
         	compiled by GNU C version 10.3.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.24-GMP
         
@@ -145,15 +145,15 @@ events:
         
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
         Compiler executable checksum: d420a368262f2e1a3ca49968a595e005
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_05690.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
-         c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_05690.dir\\CMakeCCompilerABI.c.obj C:\\Users\\Laslo\\AppData\\Local\\Temp\\cclwuLeh.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_3af1d.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
+         c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_3af1d.dir\\CMakeCCompilerABI.c.obj C:\\Users\\Laslo\\AppData\\Local\\Temp\\cc9xwKnu.s
         GNU assembler version 2.35 (arm-none-eabi) using BFD version (GNU Binutils) 2.35
         COMPILER_PATH=c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/;c:/msys64/mingw64/bin/../lib/gcc/;c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/;c:/msys64/mingw64/bin/../lib/gcc/;c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_05690.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
-        Linking C executable cmTC_05690
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_05690.dir\\link.txt --verbose=1
-        C:\\msys64\\mingw64\\bin\\arm-none-eabi-gcc.exe  -v CMakeFiles/cmTC_05690.dir/CMakeCCompilerABI.c.obj -o cmTC_05690 
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_3af1d.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
+        Linking C executable cmTC_3af1d
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_3af1d.dir\\link.txt --verbose=1
+        C:\\msys64\\mingw64\\bin\\arm-none-eabi-gcc.exe  -v CMakeFiles/cmTC_3af1d.dir/CMakeCCompilerABI.c.obj -o cmTC_3af1d 
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\mingw64\\bin\\arm-none-eabi-gcc.exe
         COLLECT_LTO_WRAPPER=c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/lto-wrapper.exe
@@ -164,14 +164,14 @@ events:
         gcc version 10.1.0 (GCC) 
         COMPILER_PATH=c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/;c:/msys64/mingw64/bin/../lib/gcc/;c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/;c:/msys64/mingw64/bin/../lib/gcc/;c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_05690' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
-         c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/collect2.exe -plugin c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/liblto_plugin-0.dll -plugin-opt=c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Laslo\\AppData\\Local\\Temp\\cc2vpLYo.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -X -o cmTC_05690 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/crti.o c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/crtbegin.o c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/crt0.o -Lc:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0 -Lc:/msys64/mingw64/bin/../lib/gcc -Lc:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib CMakeFiles/cmTC_05690.dir/CMakeCCompilerABI.c.obj --start-group -lgcc -lc --end-group c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/crtend.o c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/crtn.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3af1d' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
+         c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/collect2.exe -plugin c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/liblto_plugin-0.dll -plugin-opt=c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Laslo\\AppData\\Local\\Temp\\ccfDA0mT.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -X -o cmTC_3af1d c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/crti.o c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/crtbegin.o c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/crt0.o -Lc:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0 -Lc:/msys64/mingw64/bin/../lib/gcc -Lc:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib CMakeFiles/cmTC_3af1d.dir/CMakeCCompilerABI.c.obj --start-group -lgcc -lc --end-group c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/crtend.o c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/crtn.o
         c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/bin/ld.exe: c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib\\libc.a(lib_a-exit.o): in function `exit':
         exit.c:(.text+0x2c): undefined reference to `_exit'
         collect2.exe: error: ld returned 1 exit status
-        mingw32-make[1]: *** [CMakeFiles\\cmTC_05690.dir\\build.make:98: cmTC_05690] Error 1
-        mingw32-make[1]: Leaving directory 'C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-xer9ex'
-        mingw32-make: *** [Makefile:126: cmTC_05690/fast] Error 2
+        mingw32-make[1]: *** [CMakeFiles\\cmTC_3af1d.dir\\build.make:98: cmTC_3af1d] Error 1
+        mingw32-make[1]: Leaving directory 'C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-gkdzg6'
+        mingw32-make: *** [Makefile:126: cmTC_3af1d/fast] Error 2
         
       exitCode: 2
   -
@@ -183,20 +183,20 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-q8856r"
-      binary: "C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-q8856r"
+      source: "C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-tfix1m"
+      binary: "C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-tfix1m"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
     buildResult:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-q8856r
+        Change Dir: C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-tfix1m
         
-        Run Build Command(s):C:/Program Files/CMake/bin/cmake.exe -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_19159/fast && C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_19159.dir\\build.make CMakeFiles/cmTC_19159.dir/build
-        mingw32-make[1]: Entering directory 'C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-q8856r'
-        Building CXX object CMakeFiles/cmTC_19159.dir/CMakeCXXCompilerABI.cpp.obj
-        C:\\msys64\\mingw64\\bin\\arm-none-eabi-g++.exe   -v -o CMakeFiles\\cmTC_19159.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
+        Run Build Command(s):C:/Program Files/CMake/bin/cmake.exe -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_bf29e/fast && C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_bf29e.dir\\build.make CMakeFiles/cmTC_bf29e.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-tfix1m'
+        Building CXX object CMakeFiles/cmTC_bf29e.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\msys64\\mingw64\\bin\\arm-none-eabi-g++.exe   -v -o CMakeFiles\\cmTC_bf29e.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\mingw64\\bin\\arm-none-eabi-g++.exe
         Target: arm-none-eabi
@@ -204,8 +204,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib zstd
         gcc version 10.1.0 (GCC) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_19159.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
-         c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/cc1plus.exe -quiet -v -iprefix c:\\msys64\\mingw64\\bin\\../lib/gcc/arm-none-eabi/10.1.0/ -D__USES_INITFINI__ C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -march=armv4t -auxbase-strip CMakeFiles\\cmTC_19159.dir\\CMakeCXXCompilerABI.cpp.obj -version -o C:\\Users\\Laslo\\AppData\\Local\\Temp\\ccwFXiFS.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_bf29e.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
+         c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/cc1plus.exe -quiet -v -iprefix c:\\msys64\\mingw64\\bin\\../lib/gcc/arm-none-eabi/10.1.0/ -D__USES_INITFINI__ C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -march=armv4t -auxbase-strip CMakeFiles\\cmTC_bf29e.dir\\CMakeCXXCompilerABI.cpp.obj -version -o C:\\Users\\Laslo\\AppData\\Local\\Temp\\ccysNztj.s
         GNU C++14 (GCC) version 10.1.0 (arm-none-eabi)
         	compiled by GNU C version 10.3.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.24-GMP
         
@@ -232,15 +232,15 @@ events:
         
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
         Compiler executable checksum: f441fb8487906b2fff5dc03e3518b574
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_19159.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
-         c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_19159.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\Laslo\\AppData\\Local\\Temp\\ccwFXiFS.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_bf29e.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
+         c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_bf29e.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\Laslo\\AppData\\Local\\Temp\\ccysNztj.s
         GNU assembler version 2.35 (arm-none-eabi) using BFD version (GNU Binutils) 2.35
         COMPILER_PATH=c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/;c:/msys64/mingw64/bin/../lib/gcc/;c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/;c:/msys64/mingw64/bin/../lib/gcc/;c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_19159.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
-        Linking CXX executable cmTC_19159
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_19159.dir\\link.txt --verbose=1
-        C:\\msys64\\mingw64\\bin\\arm-none-eabi-g++.exe  -v CMakeFiles/cmTC_19159.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_19159 
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_bf29e.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
+        Linking CXX executable cmTC_bf29e
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_bf29e.dir\\link.txt --verbose=1
+        C:\\msys64\\mingw64\\bin\\arm-none-eabi-g++.exe  -v CMakeFiles/cmTC_bf29e.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_bf29e 
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\mingw64\\bin\\arm-none-eabi-g++.exe
         COLLECT_LTO_WRAPPER=c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/lto-wrapper.exe
@@ -251,14 +251,14 @@ events:
         gcc version 10.1.0 (GCC) 
         COMPILER_PATH=c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/;c:/msys64/mingw64/bin/../lib/gcc/;c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/;c:/msys64/mingw64/bin/../lib/gcc/;c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_19159' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
-         c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/collect2.exe -plugin c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/liblto_plugin-0.dll -plugin-opt=c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Laslo\\AppData\\Local\\Temp\\ccmcw947.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -X -o cmTC_19159 c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/crti.o c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/crtbegin.o c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/crt0.o -Lc:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0 -Lc:/msys64/mingw64/bin/../lib/gcc -Lc:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib CMakeFiles/cmTC_19159.dir/CMakeCXXCompilerABI.cpp.obj -lstdc++ -lm --start-group -lgcc -lc --end-group c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/crtend.o c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/crtn.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_bf29e' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
+         c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/collect2.exe -plugin c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/liblto_plugin-0.dll -plugin-opt=c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Laslo\\AppData\\Local\\Temp\\ccQZ1j0w.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -X -o cmTC_bf29e c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/crti.o c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/crtbegin.o c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib/crt0.o -Lc:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0 -Lc:/msys64/mingw64/bin/../lib/gcc -Lc:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib CMakeFiles/cmTC_bf29e.dir/CMakeCXXCompilerABI.cpp.obj -lstdc++ -lm --start-group -lgcc -lc --end-group c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/crtend.o c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/crtn.o
         c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/bin/ld.exe: c:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/10.1.0/../../../../arm-none-eabi/lib\\libc.a(lib_a-exit.o): in function `exit':
         exit.c:(.text+0x2c): undefined reference to `_exit'
         collect2.exe: error: ld returned 1 exit status
-        mingw32-make[1]: *** [CMakeFiles\\cmTC_19159.dir\\build.make:98: cmTC_19159] Error 1
-        mingw32-make[1]: Leaving directory 'C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-q8856r'
-        mingw32-make: *** [Makefile:126: cmTC_19159/fast] Error 2
+        mingw32-make[1]: *** [CMakeFiles\\cmTC_bf29e.dir\\build.make:98: cmTC_bf29e] Error 1
+        mingw32-make[1]: Leaving directory 'C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/build/CMakeFiles/CMakeScratch/TryCompile-tfix1m'
+        mingw32-make: *** [Makefile:126: cmTC_bf29e/fast] Error 2
         
       exitCode: 2
   -

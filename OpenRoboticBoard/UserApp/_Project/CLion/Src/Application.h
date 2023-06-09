@@ -18,7 +18,7 @@ class cApplication : public cApplicationBase
 	
   	test( Sensor::S1, Sensor::ANALOG_ON )
     {
-      text.clear();  // Lï¿½scht den Text auf dem Display
+      text.clear();  // Löscht den Text auf dem Display
     }
 
     //---------------------------------------------------------------
@@ -26,7 +26,7 @@ class cApplication : public cApplicationBase
     {
       if( para == 0 )
       {
-        text.print(1, "Find this serios of chars or this number: %d (%.6s,%.5s)", 69420, __DATE__,__TIME__);
+        text.print(1, "Prog 1 - a (%.6s,%.5s)",__DATE__,__TIME__);
         
         while(1)
         {

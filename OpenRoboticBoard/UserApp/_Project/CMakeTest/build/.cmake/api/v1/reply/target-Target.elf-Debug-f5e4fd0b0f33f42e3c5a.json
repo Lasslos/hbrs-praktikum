@@ -25,7 +25,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 43,
+				"line" : 45,
 				"parent" : 0
 			},
 			{
@@ -54,7 +54,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-Wextra -Wshadow -Wredundant-decls  -Weffc++ -fno-common -ffunction-sections -fdata-sections -MD -Wall -Wundef -mthumb -mcpu=cortex-m4  -g"
+					"fragment" : "-Wextra -Wshadow -Wredundant-decls  -Weffc++ -fno-common -ffunction-sections -fdata-sections -MD -Wall -Wundef -mthumb -mcpu=cortex-m4  -specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -g"
 				}
 			],
 			"includes" : 
@@ -86,11 +86,11 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-Wextra -Wshadow -Wredundant-decls  -Weffc++ -fno-common -ffunction-sections -fdata-sections -MD -Wall -Wundef -mthumb -mcpu=cortex-m4  -g",
+				"fragment" : "-Wextra -Wshadow -Wredundant-decls  -Weffc++ -fno-common -ffunction-sections -fdata-sections -MD -Wall -Wundef -mthumb -mcpu=cortex-m4  -specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -g",
 				"role" : "flags"
 			},
 			{
-				"fragment" : "-g -Wl,--gc-sections -Wl,-Map=Target.map -mthumb -mcpu=cortex-m4  -T C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/STM32FLASH.ld -L",
+				"fragment" : "-g -Wl,--gc-sections -Wl,-Map=Target.map -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -T C:/Users/Laslo/Development/cpp/hbrs-praktikum/OpenRoboticBoard/UserApp/_Project/CMakeTest/stm32f4xx_gcc.ld -L",
 				"role" : "flags"
 			}
 		],
